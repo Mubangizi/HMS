@@ -1,0 +1,501 @@
+id,patientName,age,sex,address,disease,day,hospital
+1,Martina Avila,42,F,Kawempe,Malaria,Monday,Kiruddu
+2,Harlan Barnes,41,F,Nansana,Typhoid,Monday,Kiruddu
+3,Naomi Rodriquez,43,M,Wampeewo,Malaria,Monday,Kiruddu
+4,Jade Cunningham,58,M,Kasangati,Malaria,Monday,Kiruddu
+5,Cedric Leach,57,M,Wandengeya,Typhoid,Monday,Kiruddu
+6,Carla Hester,57,M,Makerere,T.B,Monday,Kiruddu
+7,Griffin Rivera,47,M,Katanga,COVID-19,Monday,Kiruddu
+8,Orli Casey,50,M,Katwe,COVID-19,Monday,Kiruddu
+9,Marny Obrien,47,F,Kikoni,COVID-19,Monday,Kiruddu
+10,Rhonda Chavez,43,M,Bwaise,Malaria,Monday,Kiruddu
+11,Jerome Rowe,50,M,Kalerwe,Typhoid,Monday,Kiruddu
+12,Akeem Gibson,53,M,Kiteezi,T.B,Monday,Kiruddu
+13,Quin Smith,44,F,Nakifuma,Malaria,Monday,Kiruddu
+14,Tatum Moon,48,F,Makindye,COVID-19,Monday,Kiruddu
+15,Sharon Sharpe,55,F,Kivulu,COVID-19,Monday,Kiruddu
+16,Thomas Williams,53,M,Kibuye,COVID-19,Monday,Kiruddu
+17,Blaine Bender,45,F,Bwaise,Typhoid,Monday,Kiruddu
+18,Stephen Lindsey,48,M,Katwe,Malaria,Monday,Kiruddu
+19,Sloane Mann,52,M,Wandengeya,Typhoid,Monday,Kiruddu
+20,Athena Wolf,59,F,Nakasero,T.B,Monday,Kiruddu
+21,Blythe Romero,52,M,Kawempe,Malaria,Monday,Kiruddu
+22,Zelenia Byers,48,F,Kamwokya,COVID-19,Monday,Kiruddu
+23,Nola Wiggins,46,M,Kibuli,COVID-19,Monday,Kiruddu
+24,Micah Wheeler,47,M,Katanga,COVID-19,Monday,Kiruddu
+25,Caryn Hendrix,40,F,Kanyanya,Malaria,Monday,Kiruddu
+26,Hedda Miranda,53,F,Kawempe,Typhoid,Monday,Kiruddu
+27,Ulric Lynn,28,F,Makindye,Typhoid,Monday,Kiruddu
+28,Alma Pope,56,F,Arua,Malaria,Monday,Kiruddu
+29,Gemma Hendrix,46,M,Kisenyi,COVID-19,Monday,Kiruddu
+30,Castor Wood,40,M,Gayaza,COVID-19,Tuesday,Kiruddu
+31,Herman Stevenson,33,M,Gayaza,COVID-19,Tuesday,Kiruddu
+32,Adrienne Bolton,40,M,Kawempe,Malaria,Tuesday,Kiruddu
+33,Dahlia Cleveland,51,M,Nansana,COVID-19,Tuesday,Kiruddu
+34,Keane Browning,51,F,Wampeewo,Typhoid,Tuesday,Kiruddu
+35,Quon Hull,46,F,Kasangati,T.B,Tuesday,Kiruddu
+36,Coby Charles,51,F,Wandengeya,COVID-19,Tuesday,Kiruddu
+37,Amery Cortez,50,M,Makerere,COVID-19,Tuesday,Kiruddu
+38,Uriel Bradshaw,22,M,Katanga,Malaria,Tuesday,Kiruddu
+39,Fredericka Sanders,51,F,Katwe,Malaria,Tuesday,Kiruddu
+40,Christopher Stevens,48,M,Kikoni,Typhoid,Tuesday,Kiruddu
+41,Rachel Ashley,42,F,Bwaise,COVID-19,Tuesday,Kiruddu
+42,Lael Wright,46,M,Kawempe,COVID-19,Tuesday,Kiruddu
+43,Ryder Shaffer,38,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+44,Eric Noel,39,M,Kibuli,Typhoid,Tuesday,Kiruddu
+45,Tamara Guy,61,M,Katanga,T.B,Tuesday,Kiruddu
+46,Quincy Bell,55,F,Kanyanya,Typhoid,Tuesday,Kiruddu
+47,Lee Taylor,42,M,Kawempe,Malaria,Tuesday,Kiruddu
+48,Kenneth Pope,51,F,Makindye,Malaria,Tuesday,Kiruddu
+49,Reese Vance,41,M,Arua,Malaria,Tuesday,Kiruddu
+50,Quon Carroll,40,F,Kisenyi,T.B,Tuesday,Kiruddu
+51,Magee Davidson,41,M,Gayaza,COVID-19,Tuesday,Kiruddu
+52,Leilani Gross,56,F,Gayaza,COVID-19,Tuesday,Kiruddu
+53,Morgan William,46,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+54,Francesca Cervantes,37,M,Kibuli,COVID-19,Tuesday,Kiruddu
+55,Rafael Peterson,52,M,Katanga,Malaria,Tuesday,Kiruddu
+56,Roanna Knox,57,F,Kanyanya,Malaria,Tuesday,Kiruddu
+57,Marny Vargas,34,M,Kawempe,COVID-19,Tuesday,Kiruddu
+58,Charlotte Waller,43,M,Makindye,Malaria,Tuesday,Kiruddu
+59,Dorian Hernandez,50,M,Arua,Typhoid,Wednesday,Kiruddu
+60,Armando Hensley,42,M,Kisenyi,Typhoid,Wednesday,Kiruddu
+61,Rowan Kidd,42,M,Gayaza,Malaria,Wednesday,Kiruddu
+62,Gwendolyn Rice,42,F,Gayaza,COVID-19,Wednesday,Kiruddu
+63,Gareth Morris,55,F,Kawempe,Malaria,Wednesday,Kiruddu
+64,Sawyer Carney,53,F,Nansana,COVID-19,Wednesday,Kiruddu
+65,Raya Shields,53,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+66,Olga Serrano,43,F,Kasangati,Malaria,Wednesday,Kiruddu
+67,Yuli Craig,55,F,Wandengeya,Typhoid,Wednesday,Kiruddu
+68,Lev Kramer,43,M,Makerere,T.B,Wednesday,Kiruddu
+69,Nissim Acosta,57,M,Katanga,COVID-19,Wednesday,Kiruddu
+70,Miranda Berry,52,M,Katwe,COVID-19,Wednesday,Kiruddu
+71,Owen Jacobson,45,M,Kikoni,Malaria,Wednesday,Kiruddu
+72,Marvin Becker,56,F,Bwaise,Typhoid,Wednesday,Kiruddu
+73,Davis Scott,41,F,Kalerwe,Malaria,Wednesday,Kiruddu
+74,Matthew Colon,48,M,Kiteezi,Malaria,Wednesday,Kiruddu
+75,Quinlan Harris,56,M,Nakifuma,Typhoid,Wednesday,Kiruddu
+76,Hedley Greene,47,F,Makindye,T.B,Wednesday,Kiruddu
+77,Orson Kirby,53,M,Kivulu,COVID-19,Wednesday,Kiruddu
+78,Adria Mathis,57,M,Kibuye,COVID-19,Wednesday,Kiruddu
+79,Peter Stout,39,F,Bwaise,COVID-19,Wednesday,Kiruddu
+80,Cleo Moore,45,F,Katwe,Malaria,Wednesday,Kiruddu
+81,Cally Montoya,33,M,Wandengeya,Typhoid,Wednesday,Kiruddu
+82,Ila Farrell,44,M,Nakasero,T.B,Wednesday,Kiruddu
+83,Abel Stanton,40,M,Kawempe,Malaria,Wednesday,Kiruddu
+84,Reed Roman,40,F,Kamwokya,COVID-19,Wednesday,Kiruddu
+85,September Puckett,37,M,Kibuli,COVID-19,Wednesday,Kiruddu
+86,Teegan Barr,40,M,Katanga,COVID-19,Wednesday,Kiruddu
+87,Alexander York,44,M,Kanyanya,Typhoid,Wednesday,Kiruddu
+88,Jared Green,43,F,Kawempe,Malaria,Wednesday,Kiruddu
+89,Eagan Woodward,58,M,Makindye,Typhoid,Wednesday,Kiruddu
+90,Ferdinand Weber,32,M,Arua,T.B,Wednesday,Kiruddu
+91,Kitra Kerr,50,M,Kisenyi,Malaria,Wednesday,Kiruddu
+92,Desirae Stone,59,M,Gayaza,COVID-19,Wednesday,Kiruddu
+93,Len Phillips,42,M,Gayaza,COVID-19,Wednesday,Kiruddu
+94,Yen Santana,50,F,Kawempe,COVID-19,Thursday,Kiruddu
+95,Martina Fuentes,53,M,Nansana,Malaria,Thursday,Kiruddu
+96,Ariana Nash,47,M,Wampeewo,Typhoid,Thursday,Kiruddu
+97,Glenna Graham,46,F,Kasangati,Typhoid,Thursday,Kiruddu
+98,Holmes Lane,43,M,Wandengeya,Malaria,Thursday,Kiruddu
+99,Emerald Hamilton,49,F,Makerere,COVID-19,Thursday,Kiruddu
+100,Gage Marquez,43,F,Katanga,COVID-19,Thursday,Kiruddu
+101,Travis Burks,53,M,Katwe,COVID-19,Thursday,Kiruddu
+102,Otto Oneill,36,M,Kikoni,Malaria,Thursday,Kiruddu
+103,Brian Mathews,30,M,Bwaise,COVID-19,Thursday,Kiruddu
+104,Ralph Rich,37,F,Kawempe,Typhoid,Thursday,Kiruddu
+105,Yasir Tyler,48,F,Kamwokya,T.B,Thursday,Kiruddu
+106,Dominic Mcintosh,44,F,Kibuli,COVID-19,Thursday,Kiruddu
+107,Tanner Ward,42,F,Katanga,COVID-19,Thursday,Kiruddu
+108,Wing Gray,50,M,Kanyanya,Malaria,Thursday,Kiruddu
+109,Lionel Mcclure,30,M,Kawempe,Malaria,Thursday,Kiruddu
+110,Wing Parks,42,M,Makindye,Typhoid,Thursday,Kiruddu
+111,Oleg Gordon,46,M,Arua,COVID-19,Thursday,Kiruddu
+112,Jamal Stephenson,55,M,Kisenyi,COVID-19,Thursday,Kiruddu
+113,Kadeem Larsen,44,F,Gayaza,COVID-19,Thursday,Kiruddu
+114,Todd Maldonado,58,F,Gayaza,Typhoid,Thursday,Kiruddu
+115,Victor Yang,42,M,Kamwokya,T.B,Thursday,Kiruddu
+116,Quamar Cummings,57,M,Kibuli,Typhoid,Thursday,Kiruddu
+117,Dominic Hughes,43,M,Katanga,Malaria,Thursday,Kiruddu
+118,Lamar Hensley,35,F,Kanyanya,Malaria,Thursday,Kiruddu
+119,Solomon Atkinson,43,F,Kawempe,Malaria,Thursday,Kiruddu
+120,Dean Snider,35,F,Makindye,T.B,Thursday,Kiruddu
+121,Vernon Kidd,34,M,Arua,COVID-19,Thursday,Kiruddu
+122,Dolan Clayton,48,F,Kisenyi,COVID-19,Thursday,Kiruddu
+123,Marvin Deleon,53,M,Gayaza,COVID-19,Thursday,Kiruddu
+124,Merrill Bailey,47,F,Gayaza,COVID-19,Thursday,Kiruddu
+125,Adrian Brock,54,F,Kawempe,Malaria,Thursday,Kiruddu
+126,Rigel Craft,51,F,Nansana,Malaria,Thursday,Kiruddu
+127,Chaim Lewis,59,F,Wampeewo,COVID-19,Thursday,Kiruddu
+128,Kyle Evans,49,F,Kasangati,Malaria,Thursday,Kiruddu
+129,Ulysses Craig,51,M,Wandengeya,Typhoid,Thursday,Kiruddu
+130,Nolan Nixon,40,F,Makerere,Typhoid,Thursday,Kiruddu
+131,Oren Rosario,53,M,Katanga,Malaria,Thursday,Kiruddu
+132,Hector Bowers,45,M,Katwe,COVID-19,Thursday,Kiruddu
+133,Tate Molina,45,F,Kikoni,Malaria,Thursday,Kiruddu
+134,Julian Alexander,37,F,Bwaise,COVID-19,Thursday,Kiruddu
+135,Lucian Medina,43,F,Kalerwe,COVID-19,Thursday,Kiruddu
+136,Todd Bass,48,F,Kiteezi,Malaria,Thursday,Kiruddu
+137,Mannix Snow,49,F,Nakifuma,Typhoid,Thursday,Kiruddu
+138,Benedict Serrano,48,M,Makindye,T.B,Thursday,Kiruddu
+139,Yoshio Potter,45,M,Kivulu,COVID-19,Thursday,Kiruddu
+140,Stone Koch,43,M,Kibuye,COVID-19,Thursday,Kiruddu
+141,Elliott Horne,62,F,Bwaise,Typhoid,Thursday,Kiruddu
+142,Tanner Johnson,46,M,Katwe,Malaria,Thursday,Kiruddu
+143,Gabriel Carson,51,F,Wandengeya,Malaria,Thursday,Kiruddu
+144,Cain Love,44,M,Nakasero,Typhoid,Thursday,Kiruddu
+145,Barry Larsen,57,F,Kawempe,T.B,Thursday,Kiruddu
+146,Lawrence Ryan,60,F,Kamwokya,COVID-19,Friday,Kiruddu
+147,Allen Burke,39,M,Kibuli,COVID-19,Friday,Kiruddu
+148,Nero Morgan,61,F,Katanga,COVID-19,Friday,Kiruddu
+149,Reuben Holden,50,M,Kanyanya,Malaria,Friday,Kiruddu
+150,Orson Hyde,37,M,Kawempe,Typhoid,Friday,Kiruddu
+151,Nolan Conner,45,M,Makindye,T.B,Friday,Kiruddu
+152,Stuart Reed,50,M,Arua,Malaria,Friday,Kiruddu
+153,Rashad Harper,32,F,Kisenyi,COVID-19,Friday,Kiruddu
+154,Dieter Delaney,34,F,Gayaza,COVID-19,Friday,Kiruddu
+155,Hop Farley,45,M,Gayaza,COVID-19,Friday,Kiruddu
+156,Darius Herring,50,F,Kawempe,Typhoid,Friday,Kiruddu
+157,Baker Saunders,51,F,Nansana,Malaria,Friday,Kiruddu
+158,Kermit Fuentes,53,F,Wampeewo,Typhoid,Friday,Kiruddu
+159,Marvin Garner,34,F,Kasangati,T.B,Friday,Kiruddu
+160,Sebastian Marks,56,F,Wandengeya,Malaria,Friday,Kiruddu
+161,Hector Price,57,M,Makerere,COVID-19,Friday,Kiruddu
+162,Holmes Irwin,48,M,Katanga,COVID-19,Friday,Kiruddu
+163,Trevor Faulkner,40,F,Katwe,COVID-19,Friday,Kiruddu
+164,Gannon Nguyen,50,F,Kikoni,Malaria,Friday,Kiruddu
+165,Quentin Randall,47,F,Bwaise,Typhoid,Friday,Kiruddu
+166,Baker Norton,39,M,Kawempe,Typhoid,Friday,Kiruddu
+167,Hakeem Mendoza,36,M,Kamwokya,Malaria,Friday,Kiruddu
+168,Peter Maynard,44,M,Kibuli,COVID-19,Friday,Kiruddu
+169,Devin Humphrey,47,F,Katanga,COVID-19,Friday,Kiruddu
+170,Isaiah Harding,33,M,Kanyanya,COVID-19,Friday,Kiruddu
+171,Graiden Powell,42,M,Kawempe,Malaria,Friday,Kiruddu
+172,Chancellor Padilla,47,M,Makindye,COVID-19,Friday,Kiruddu
+173,Philip Barnes,40,F,Arua,Typhoid,Friday,Kiruddu
+174,Cameron Cash,54,M,Kisenyi,T.B,Friday,Kiruddu
+175,Eric Green,38,F,Gayaza,COVID-19,Friday,Kiruddu
+176,Tanek Koch,40,F,Gayaza,COVID-19,Saturday,Kiruddu
+177,Alan Browning,45,M,Kamwokya,Malaria,Saturday,Kiruddu
+178,Phelan Montoya,51,F,Kibuli,Malaria,Saturday,Kiruddu
+179,Chancellor Patel,38,M,Katanga,Typhoid,Saturday,Kiruddu
+180,Palmer Cohen,34,M,Kanyanya,COVID-19,Saturday,Kiruddu
+181,Ahmed Wright,50,M,Kawempe,COVID-19,Saturday,Kiruddu
+182,Burton Carroll,42,F,Makindye,COVID-19,Saturday,Kiruddu
+183,Nero Miranda,33,M,Arua,Typhoid,Saturday,Kiruddu
+184,Ali Strong,56,M,Kisenyi,T.B,Saturday,Kiruddu
+185,Nasim Ryan,57,F,Gayaza,Typhoid,Saturday,Kiruddu
+186,August Duncan,37,M,Gayaza,Malaria,Saturday,Kiruddu
+187,Kieran Gilliam,51,F,Kawempe,Malaria,Saturday,Kiruddu
+188,Stone Hunt,63,F,Nansana,Malaria,Saturday,Kiruddu
+189,Malachi Henson,53,M,Wampeewo,T.B,Saturday,Kiruddu
+190,Seth Massey,51,M,Kasangati,COVID-19,Saturday,Kiruddu
+191,Ulric Robles,48,M,Wandengeya,COVID-19,Saturday,Kiruddu
+192,Gannon Marquez,41,M,Makerere,COVID-19,Saturday,Kiruddu
+193,Marshall Armstrong,39,F,Katanga,COVID-19,Saturday,Kiruddu
+194,Christian Huffman,45,F,Katwe,Malaria,Saturday,Kiruddu
+195,Gil Sanders,70,F,Kikoni,Malaria,Saturday,Kiruddu
+196,Otto Thomas,51,F,Bwaise,COVID-19,Saturday,Kiruddu
+197,Moses Blackburn,51,F,Kalerwe,Malaria,Saturday,Kiruddu
+198,Drake Chen,42,F,Kiteezi,Typhoid,Saturday,Kiruddu
+199,Christian Hernandez,50,M,Nakifuma,Typhoid,Saturday,Kiruddu
+200,Jelani F. Pace,40,M,Makindye,Malaria,Saturday,Kiruddu
+201,Tiger I. Melton,44,M,Kivulu,COVID-19,Saturday,Kiruddu
+202,Quail D. Horne,52,F,Kibuye,Malaria,Sunday,Kiruddu
+203,Hammett A. Manning,41,M,Bwaise,COVID-19,Sunday,Kiruddu
+204,Lamar V. Guthrie,57,F,Katwe,COVID-19,Sunday,Kiruddu
+205,Abra D. Golden,54,F,Wandengeya,Malaria,Sunday,Kiruddu
+206,Vaughan L. Mathis,50,M,Nakasero,Typhoid,Sunday,Kiruddu
+207,Alfreda V. Harrell,37,M,Kawempe,T.B,Sunday,Kiruddu
+208,Nora X. Decker,52,F,Kamwokya,COVID-19,Sunday,Kiruddu
+209,Jeanette Q. Leach,43,F,Kibuli,COVID-19,Sunday,Kiruddu
+210,Keiko O. Whitaker,52,F,Katanga,Malaria,Sunday,Kiruddu
+211,Hector F. Leblanc,64,F,Kanyanya,Typhoid,Sunday,Kiruddu
+212,Emerald R. Cohen,51,F,Kawempe,Malaria,Sunday,Kiruddu
+213,Cathleen E. Ortega,55,F,Makindye,Malaria,Monday,Kiruddu
+214,Velma K. Moses,47,M,Arua,Typhoid,Monday,Kiruddu
+215,Lael W. Sheppard,36,M,Kisenyi,T.B,Monday,Kiruddu
+216,Indigo P. Dejesus,39,F,Gayaza,COVID-19,Monday,Kiruddu
+217,Quinlan S. Cantu,45,M,Gayaza,COVID-19,Monday,Kiruddu
+218,Mariam I. Montgomery,47,M,Kawempe,COVID-19,Monday,Kiruddu
+219,Pamela M. Cantu,47,F,Nansana,Malaria,Monday,Kiruddu
+220,Hanna C. Martinez,60,F,Wampeewo,Typhoid,Monday,Kiruddu
+221,Lynn S. Avery,59,M,Kasangati,T.B,Monday,Kiruddu
+222,Laurel H. Snow,36,M,Wandengeya,Malaria,Monday,Kiruddu
+223,Keegan Q. Ramirez,47,F,Makerere,COVID-19,Monday,Kiruddu
+224,Shad K. Hancock,38,M,Katanga,COVID-19,Monday,Kiruddu
+225,Harding E. York,42,M,Katwe,COVID-19,Monday,Kiruddu
+226,Indira A. Aguilar,33,M,Kikoni,Typhoid,Monday,Kiruddu
+227,Bell K. Romero,39,M,Bwaise,Malaria,Monday,Kiruddu
+228,Cassady L. Foreman,39,F,Kawempe,Typhoid,Monday,Kiruddu
+229,Samson N. Wagner,55,M,Kamwokya,T.B,Monday,Kiruddu
+230,Wade O. Diaz,45,F,Kibuli,Malaria,Monday,Kiruddu
+231,Len B. Finley,51,M,Katanga,COVID-19,Monday,Kiruddu
+232,Emerald U. Hanson,49,F,Kanyanya,COVID-19,Monday,Kiruddu
+233,Cody G. Gill,46,M,Kawempe,COVID-19,Monday,Kiruddu
+234,Kyle R. Kaufman,53,M,Makindye,Malaria,Monday,Kiruddu
+235,Drake D. Gray,39,M,Arua,Typhoid,Monday,Kiruddu
+236,Honorato M. Butler,43,M,Kisenyi,Typhoid,Monday,Kiruddu
+237,Tate C. Foster,70,M,Gayaza,Malaria,Monday,Kiruddu
+238,Zelenia L. Lowe,51,F,Gayaza,COVID-19,Monday,Kiruddu
+239,Callum U. Sweet,52,F,Kamwokya,COVID-19,Monday,Kiruddu
+240,Zane I. Boone,45,M,Kibuli,COVID-19,Monday,Kiruddu
+241,Timothy J. Terrell,48,F,Katanga,Malaria,Monday,Kiruddu
+242,Zahir A. Estes,48,M,Kanyanya,COVID-19,Tuesday,Kiruddu
+243,Michelle W. Ryan,48,F,Kawempe,Typhoid,Tuesday,Kiruddu
+244,Serena B. Moody,57,M,Makindye,T.B,Tuesday,Kiruddu
+245,Mark V. Vaughn,46,M,Kawempe,COVID-19,Tuesday,Kiruddu
+246,Anjolie A. Galloway,44,F,Nansana,COVID-19,Tuesday,Kiruddu
+247,Kylee O. Warner,65,M,Wampeewo,Malaria,Tuesday,Kiruddu
+248,MacKenzie O. Fowler,57,F,Kasangati,Malaria,Tuesday,Kiruddu
+249,Lana S. Pace,47,M,Wandengeya,Typhoid,Tuesday,Kiruddu
+250,Wilma L. Stevenson,36,F,Makerere,COVID-19,Tuesday,Kiruddu
+251,Sandra J. Huber,57,F,Katanga,COVID-19,Tuesday,Kiruddu
+252,Octavius C. Spencer,33,F,Katwe,COVID-19,Tuesday,Kiruddu
+253,Brendan G. Kelley,43,M,Kikoni,Typhoid,Tuesday,Kiruddu
+254,Shaeleigh M. Mckenzie,46,M,Bwaise,T.B,Tuesday,Kiruddu
+255,Rooney R. Padilla,45,F,Kalerwe,Typhoid,Tuesday,Kiruddu
+256,Damon K. Boone,43,M,Kiteezi,Malaria,Tuesday,Kiruddu
+257,Taylor A. Patel,38,M,Nakifuma,Malaria,Tuesday,Kiruddu
+258,Lillith H. Larsen,40,M,Makindye,Malaria,Tuesday,Kiruddu
+259,Tobias L. Sullivan,43,M,Kivulu,T.B,Tuesday,Kiruddu
+260,Quincy Q. Ayers,42,F,Kibuye,COVID-19,Tuesday,Kiruddu
+261,Ulysses X. Burch,51,F,Bwaise,COVID-19,Tuesday,Kiruddu
+262,Jorden I. Whitley,38,F,Katwe,COVID-19,Tuesday,Kiruddu
+263,Heather G. Goodwin,41,M,Wandengeya,COVID-19,Tuesday,Kiruddu
+264,Yardley W. Jacobson,54,M,Nakasero,Malaria,Tuesday,Kiruddu
+265,Gray F. Walker,45,F,Kawempe,Malaria,Tuesday,Kiruddu
+266,Piper S. Houston,41,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+267,Chester X. Carrillo,40,M,Kibuli,Malaria,Tuesday,Kiruddu
+268,Nathaniel P. Stephens,32,F,Katanga,Typhoid,Tuesday,Kiruddu
+269,Jennifer C. Williamson,54,F,Kanyanya,Typhoid,Tuesday,Kiruddu
+270,Rae C. Hodge,55,F,Kawempe,Malaria,Tuesday,Kiruddu
+271,Urielle M. Contreras,35,F,Makindye,COVID-19,Wednesday,Kiruddu
+272,Mechelle W. Stanton,46,F,Arua,Malaria,Wednesday,Kiruddu
+273,Leila F. Hubbard,45,M,Kisenyi,COVID-19,Wednesday,Kiruddu
+274,Tanisha H. Foster,50,F,Gayaza,COVID-19,Wednesday,Kiruddu
+275,Hammett F. Marsh,54,M,Gayaza,Malaria,Wednesday,Kiruddu
+276,Calvin A. Lancaster,29,M,Kawempe,Typhoid,Wednesday,Kiruddu
+277,Rachel H. Ballard,56,M,Nansana,T.B,Wednesday,Kiruddu
+278,Solomon P. Randolph,54,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+279,Kasimir Q. Cherry,33,F,Kasangati,COVID-19,Wednesday,Kiruddu
+280,Dominic I. Faulkner,48,F,Wandengeya,Typhoid,Wednesday,Kiruddu
+281,Pascale I. Key,49,F,Makerere,Malaria,Wednesday,Kiruddu
+282,Nola L. Sweeney,55,F,Katanga,Malaria,Wednesday,Kiruddu
+283,Clementine X. Powell,42,F,Katwe,Typhoid,Wednesday,Kiruddu
+284,Quinlan U. Sears,41,M,Kikoni,T.B,Wednesday,Kiruddu
+285,Odette Q. Sherman,53,M,Bwaise,COVID-19,Wednesday,Kiruddu
+286,Kirestin F. Yang,53,M,Kawempe,COVID-19,Wednesday,Kiruddu
+287,Colleen S. Mcguire,44,F,Kamwokya,COVID-19,Wednesday,Kiruddu
+288,Dennis N. Thompson,42,F,Kibuli,Malaria,Wednesday,Kiruddu
+289,Lester J. Burch,41,F,Katanga,Typhoid,Wednesday,Kiruddu
+290,Madeson R. Salinas,48,F,Kanyanya,T.B,Wednesday,Kiruddu
+291,Abigail X. Lindsey,63,F,Kawempe,Malaria,Wednesday,Kiruddu
+292,Rachel E. Suarez,59,M,Makindye,COVID-19,Wednesday,Kiruddu
+293,Derek X. Richards,45,M,Arua,COVID-19,Wednesday,Kiruddu
+294,Evangeline G. Cooper,47,M,Kisenyi,COVID-19,Wednesday,Kiruddu
+295,Kieran G. Justice,49,M,Gayaza,Typhoid,Wednesday,Kiruddu
+296,Zenia H. Patel,40,M,Gayaza,Malaria,Wednesday,Kiruddu
+297,Michelle R. Burke,41,M,Kamwokya,Typhoid,Wednesday,Kiruddu
+298,Florence U. Hunter,47,F,Kibuli,T.B,Wednesday,Kiruddu
+299,Jelani A. Wall,27,F,Katanga,Malaria,Wednesday,Kiruddu
+300,"England, Abel D.",46,M,Kanyanya,COVID-19,Wednesday,Kiruddu
+301,"Oconnor, Linus Q.",51,F,Kawempe,COVID-19,Wednesday,Kiruddu
+302,"Herman, Griffith P.",43,F,Makindye,COVID-19,Wednesday,Kiruddu
+303,"Knapp, Quamar P.",32,F,Arua,Malaria,Wednesday,Kiruddu
+304,"Chambers, Avram C.",63,M,Kisenyi,Typhoid,Wednesday,Kiruddu
+305,"Cervantes, Rylee Q.",35,M,Gayaza,Typhoid,Wednesday,Kiruddu
+306,"Ashley, Macon Z.",50,M,Gayaza,Malaria,Thursday,Kiruddu
+307,"Jimenez, Joel G.",51,F,Kawempe,COVID-19,Thursday,Kiruddu
+308,"Bond, Caryn Y.",54,M,Nansana,COVID-19,Thursday,Kiruddu
+309,"Gross, Cedric D.",37,F,Wampeewo,COVID-19,Thursday,Kiruddu
+310,"Dyer, Aline L.",44,F,Kasangati,Malaria,Thursday,Kiruddu
+311,"Rivers, Sonya A.",57,M,Wandengeya,COVID-19,Thursday,Kiruddu
+312,"Frazier, Kai O.",47,F,Makerere,Typhoid,Thursday,Kiruddu
+313,"Bond, Nyssa S.",52,F,Katanga,T.B,Thursday,Kiruddu
+314,"Rush, Jarrod T.",52,M,Katwe,COVID-19,Thursday,Kiruddu
+315,"Stephens, Tanner E.",48,F,Kikoni,COVID-19,Thursday,Kiruddu
+316,"Cameron, Kimberley P.",55,M,Bwaise,Malaria,Thursday,Kiruddu
+317,"Mcdowell, Victoria J.",47,F,Kalerwe,Malaria,Thursday,Kiruddu
+318,"Dalton, Grant D.",45,M,Kiteezi,Typhoid,Thursday,Kiruddu
+319,"Gregory, Reuben Z.",40,M,Nakifuma,COVID-19,Thursday,Kiruddu
+320,"Schultz, Lee I.",47,M,Makindye,COVID-19,Thursday,Kiruddu
+321,"Wise, Mechelle E.",45,F,Kivulu,COVID-19,Thursday,Kiruddu
+322,"Mcclure, Avye L.",49,M,Kibuye,Typhoid,Thursday,Kiruddu
+323,"Livingston, Blaze Y.",60,F,Bwaise,T.B,Thursday,Kiruddu
+324,"Fuentes, Dora E.",34,F,Katwe,Typhoid,Thursday,Kiruddu
+325,"Thompson, Alvin R.",36,F,Wandengeya,Malaria,Thursday,Kiruddu
+326,"Armstrong, Hedda N.",51,F,Nakasero,Malaria,Thursday,Kiruddu
+327,"Casey, Sylvia E.",42,F,Kawempe,Malaria,Thursday,Kiruddu
+328,"Shaw, Rooney Q.",48,F,Kamwokya,T.B,Thursday,Kiruddu
+329,"Sexton, Shaeleigh H.",35,M,Kibuli,COVID-19,Thursday,Kiruddu
+330,"Langley, Skyler J.",44,M,Katanga,COVID-19,Thursday,Kiruddu
+331,"Caldwell, Yolanda F.",48,F,Kanyanya,COVID-19,Thursday,Kiruddu
+332,"Olson, Riley O.",47,M,Kawempe,COVID-19,Thursday,Kiruddu
+333,"Irwin, Dillon J.",31,F,Makindye,Malaria,Thursday,Kiruddu
+334,"Terry, Mollie K.",45,M,Arua,Malaria,Thursday,Kiruddu
+335,"Hudson, Maxwell F.",49,F,Kisenyi,COVID-19,Thursday,Kiruddu
+336,"Levy, Irma P.",61,F,Gayaza,Malaria,Thursday,Kiruddu
+337,"Brady, Oscar Y.",51,F,Gayaza,Typhoid,Thursday,Kiruddu
+338,"Dudley, Ryder M.",35,M,Kawempe,Typhoid,Thursday,Kiruddu
+339,"Morales, Halla M.",53,F,Nansana,Malaria,Thursday,Kiruddu
+340,"Holloway, Brennan Q.",42,M,Wampeewo,COVID-19,Thursday,Kiruddu
+341,"Powers, Naomi B.",39,M,Kasangati,Malaria,Thursday,Kiruddu
+342,"Armstrong, Naomi D.",38,M,Wandengeya,COVID-19,Thursday,Kiruddu
+343,"Flores, Caldwell U.",41,F,Makerere,COVID-19,Thursday,Kiruddu
+344,"Russo, Fleur N.",44,F,Katanga,Malaria,Thursday,Kiruddu
+345,"Reese, Sylvia H.",43,M,Katwe,Typhoid,Thursday,Kiruddu
+346,"Burke, Simon H.",39,M,Kikoni,T.B,Thursday,Kiruddu
+347,"Mayer, Paki D.",33,F,Bwaise,COVID-19,Thursday,Kiruddu
+348,"Bush, Jessica C.",47,F,Kawempe,COVID-19,Thursday,Kiruddu
+349,"West, April J.",45,F,Kamwokya,Malaria,Thursday,Kiruddu
+350,"Levy, Wesley S.",51,M,Kibuli,Typhoid,Thursday,Kiruddu
+351,"Nieves, Bertha O.",42,F,Katanga,Malaria,Thursday,Kiruddu
+352,"Patrick, Merritt L.",55,F,Kanyanya,Malaria,Thursday,Kiruddu
+353,"Mcdaniel, Marcia Z.",62,M,Kawempe,Typhoid,Thursday,Kiruddu
+354,"Ortiz, Drew P.",52,F,Makindye,T.B,Thursday,Kiruddu
+355,"Oneill, Tiger A.",51,F,Arua,COVID-19,Thursday,Kiruddu
+356,"Sims, Tashya J.",63,M,Kisenyi,COVID-19,Thursday,Kiruddu
+357,"Lawrence, Hope Z.",46,M,Gayaza,COVID-19,Thursday,Kiruddu
+358,"Jenkins, Hasad P.",47,M,Gayaza,Malaria,Friday,Kiruddu
+359,"Rodriguez, Basia D.",58,F,Kamwokya,Typhoid,Friday,Kiruddu
+360,"Blair, Abra U.",37,M,Kibuli,T.B,Friday,Kiruddu
+361,"Rosario, Elijah N.",51,M,Katanga,Malaria,Friday,Kiruddu
+362,"Beach, Victor S.",36,F,Kanyanya,COVID-19,Friday,Kiruddu
+363,"Ruiz, Rafael L.",32,M,Kawempe,COVID-19,Friday,Kiruddu
+364,"Macdonald, Rahim B.",32,M,Makindye,COVID-19,Friday,Kiruddu
+365,"Valdez, Joy U.",43,M,Kawempe,Typhoid,Friday,Kiruddu
+366,"Watson, Moana M.",51,F,Nansana,Malaria,Friday,Kiruddu
+367,"Cote, Evangeline F.",43,M,Wampeewo,Typhoid,Friday,Kiruddu
+368,"Delgado, Jasper U.",58,M,Kasangati,T.B,Friday,Kiruddu
+369,"Hardy, Hilary R.",49,M,Wandengeya,Malaria,Friday,Kiruddu
+370,"Stafford, Berk Y.",43,F,Makerere,COVID-19,Friday,Kiruddu
+371,"Daugherty, Veda M.",48,M,Katanga,COVID-19,Friday,Kiruddu
+372,"Harmon, David N.",40,F,Katwe,COVID-19,Friday,Kiruddu
+373,"Houston, Grant O.",35,M,Kikoni,Malaria,Friday,Kiruddu
+374,"Collier, Xerxes Q.",43,F,Bwaise,Typhoid,Friday,Kiruddu
+375,"Lewis, Jackson U.",57,M,Kalerwe,Typhoid,Friday,Kiruddu
+376,"Smith, Nola H.",47,M,Kiteezi,Malaria,Friday,Kiruddu
+377,"Jensen, Ebony Y.",32,F,Nakifuma,COVID-19,Friday,Kiruddu
+378,"Kim, Claudia W.",44,F,Makindye,COVID-19,Friday,Kiruddu
+379,"Livingston, Lucas K.",50,F,Kivulu,COVID-19,Friday,Kiruddu
+380,"Bradford, Daquan F.",44,M,Kibuye,Malaria,Friday,Kiruddu
+381,"Park, Quincy A.",57,F,Bwaise,COVID-19,Friday,Kiruddu
+382,"Dillon, Lynn W.",35,F,Katwe,Typhoid,Friday,Kiruddu
+383,"Blackburn, Joel Y.",53,M,Wandengeya,T.B,Friday,Kiruddu
+384,"Sanders, Selma F.",41,M,Nakasero,COVID-19,Friday,Kiruddu
+385,"Solis, Melissa T.",44,F,Kawempe,COVID-19,Friday,Kiruddu
+386,"Holmes, Ross Y.",63,M,Kamwokya,Malaria,Friday,Kiruddu
+387,"Sutton, Michelle D.",50,F,Kibuli,Malaria,Friday,Kiruddu
+388,"Munoz, Kennedy K.",42,M,Katanga,Typhoid,Saturday,Kiruddu
+389,"Little, Hayley R.",41,M,Kanyanya,COVID-19,Saturday,Kiruddu
+390,"Church, Lareina E.",40,F,Kawempe,COVID-19,Saturday,Kiruddu
+391,"Wolf, Tashya X.",40,M,Makindye,COVID-19,Saturday,Kiruddu
+392,"Barr, Hyatt D.",56,M,Arua,Typhoid,Saturday,Kiruddu
+393,"Hopper, Orson W.",48,M,Kisenyi,T.B,Saturday,Kiruddu
+394,"Decker, Jolie T.",41,M,Gayaza,Typhoid,Saturday,Kiruddu
+395,"Chaney, Reuben I.",61,F,Gayaza,Malaria,Saturday,Kiruddu
+396,"Ross, Kermit D.",35,M,Kawempe,Malaria,Saturday,Kiruddu
+397,"Hampton, Venus Q.",55,F,Nansana,Malaria,Saturday,Kiruddu
+398,"Chavez, Ralph U.",37,F,Wampeewo,T.B,Saturday,Kiruddu
+399,"Whitaker, Adena B.",48,F,Kasangati,COVID-19,Saturday,Kiruddu
+400,Nola,32,F,Wandengeya,COVID-19,Saturday,Kiruddu
+401,Melodie,62,M,Makerere,COVID-19,Saturday,Kiruddu
+402,Seth,49,F,Katanga,COVID-19,Saturday,Kiruddu
+403,Kyra,43,F,Katwe,Malaria,Saturday,Kiruddu
+404,Caldwell,36,M,Kikoni,Malaria,Saturday,Kiruddu
+405,Benjamin,61,F,Bwaise,COVID-19,Saturday,Kiruddu
+406,Florence,46,F,Kawempe,Malaria,Saturday,Kiruddu
+407,Oleg,57,F,Kamwokya,Typhoid,Saturday,Kiruddu
+408,Donovan,36,M,Kibuli,Typhoid,Saturday,Kiruddu
+409,Blaze,49,F,Katanga,Malaria,Saturday,Kiruddu
+410,Illana,63,M,Kanyanya,COVID-19,Saturday,Kiruddu
+411,Yvette,49,F,Kawempe,Malaria,Saturday,Kiruddu
+412,Walter,44,M,Makindye,COVID-19,Saturday,Kiruddu
+413,Dexter,43,M,Arua,COVID-19,Saturday,Kiruddu
+414,Cameran,48,F,Kisenyi,Malaria,Sunday,Kiruddu
+415,Penelope,37,F,Gayaza,Typhoid,Sunday,Kiruddu
+416,Hyatt,49,M,Gayaza,T.B,Sunday,Kiruddu
+417,Stone,40,M,Kamwokya,COVID-19,Sunday,Kiruddu
+418,Irma,42,F,Kibuli,COVID-19,Sunday,Kiruddu
+419,Josiah,30,M,Katanga,Typhoid,Sunday,Kiruddu
+420,Nathan,43,M,Kanyanya,Malaria,Sunday,Kiruddu
+421,Stacy,55,F,Kawempe,Malaria,Sunday,Kiruddu
+422,Kane,40,F,Makindye,Typhoid,Sunday,Kiruddu
+423,Reed,38,M,Arua,T.B,Sunday,Kiruddu
+424,Lani,43,F,Kisenyi,COVID-19,Sunday,Kiruddu
+425,Curran,37,M,Gayaza,COVID-19,Monday,Kiruddu
+426,Rhonda,41,F,Gayaza,COVID-19,Monday,Kiruddu
+427,Leroy,42,M,Kawempe,Malaria,Monday,Kiruddu
+428,Adrienne,38,F,Nansana,Typhoid,Monday,Kiruddu
+429,Aileen,43,F,Wampeewo,T.B,Monday,Kiruddu
+430,Rafael,44,F,Kasangati,Malaria,Monday,Kiruddu
+431,Olivia,41,F,Wandengeya,COVID-19,Monday,Kiruddu
+432,Hiram,46,F,Makerere,COVID-19,Monday,Kiruddu
+433,Jelani,46,M,Katanga,COVID-19,Monday,Kiruddu
+434,Madeson,40,M,Katwe,Typhoid,Monday,Kiruddu
+435,Uriah,45,M,Kikoni,Malaria,Monday,Kiruddu
+436,Brady,58,M,Bwaise,Typhoid,Monday,Kiruddu
+437,Denise,62,F,Kalerwe,T.B,Monday,Kiruddu
+438,Lyle,52,F,Kiteezi,Malaria,Monday,Kiruddu
+439,Victor,44,F,Nakifuma,COVID-19,Monday,Kiruddu
+440,Demetria,44,F,Makindye,COVID-19,Monday,Kiruddu
+441,Ora,40,M,Kivulu,COVID-19,Monday,Kiruddu
+442,Trevor,33,F,Kibuye,Malaria,Monday,Kiruddu
+443,Kristen,44,M,Bwaise,Typhoid,Monday,Kiruddu
+444,Aristotle,42,F,Katwe,Typhoid,Monday,Kiruddu
+445,Camden,20,M,Wandengeya,Malaria,Monday,Kiruddu
+446,Urielle,53,F,Nakasero,COVID-19,Monday,Kiruddu
+447,Jolene,56,M,Kawempe,COVID-19,Monday,Kiruddu
+448,Holly,44,M,Kamwokya,COVID-19,Monday,Kiruddu
+449,Wayne,52,M,Kibuli,Malaria,Monday,Kiruddu
+450,Judith,43,F,Katanga,COVID-19,Monday,Kiruddu
+451,Dennis,49,M,Kanyanya,Typhoid,Monday,Kiruddu
+452,Kaitlin,56,M,Kawempe,T.B,Monday,Kiruddu
+453,Harriet,47,F,Makindye,COVID-19,Monday,Kiruddu
+454,Tatyana,25,F,Arua,COVID-19,Tuesday,Kiruddu
+455,Paula,45,M,Kisenyi,Malaria,Tuesday,Kiruddu
+456,Tamekah,46,M,Gayaza,Malaria,Tuesday,Kiruddu
+457,Brandon,33,F,Gayaza,Typhoid,Tuesday,Kiruddu
+458,Veda,43,M,Kawempe,COVID-19,Tuesday,Kiruddu
+459,Seth,48,M,Nansana,COVID-19,Tuesday,Kiruddu
+460,Kai,48,F,Wampeewo,COVID-19,Tuesday,Kiruddu
+461,Piper,40,F,Kasangati,Typhoid,Tuesday,Kiruddu
+462,Hillary,39,M,Wandengeya,T.B,Tuesday,Kiruddu
+463,Francis,39,F,Makerere,Typhoid,Tuesday,Kiruddu
+464,Rogan,54,M,Katanga,Malaria,Tuesday,Kiruddu
+465,Kyle,53,F,Katwe,Malaria,Tuesday,Kiruddu
+466,Vaughan,51,F,Kikoni,Malaria,Tuesday,Kiruddu
+467,India,55,F,Bwaise,T.B,Tuesday,Kiruddu
+468,Edward,35,M,Kawempe,COVID-19,Tuesday,Kiruddu
+469,Laurel,43,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+470,Igor,37,F,Kibuli,COVID-19,Tuesday,Kiruddu
+471,Diana,60,F,Katanga,COVID-19,Tuesday,Kiruddu
+472,Todd,44,F,Kanyanya,Malaria,Tuesday,Kiruddu
+473,Zephania,39,M,Kawempe,Malaria,Tuesday,Kiruddu
+474,Brock,42,M,Makindye,COVID-19,Tuesday,Kiruddu
+475,Avye,32,F,Arua,Malaria,Tuesday,Kiruddu
+476,Serena,52,M,Kisenyi,Typhoid,Tuesday,Kiruddu
+477,Barclay,56,F,Gayaza,Typhoid,Tuesday,Kiruddu
+478,Isabella,41,M,Gayaza,Malaria,Tuesday,Kiruddu
+479,Mia,51,M,Kamwokya,COVID-19,Tuesday,Kiruddu
+480,Chester,58,F,Kibuli,Malaria,Tuesday,Kiruddu
+481,Isaac,51,F,Katanga,COVID-19,Tuesday,Kiruddu
+482,Heather,29,M,Kanyanya,COVID-19,Tuesday,Kiruddu
+483,Justine,53,M,Kawempe,Malaria,Wednesday,Kiruddu
+484,Bert,43,F,Makindye,Typhoid,Wednesday,Kiruddu
+485,Gil,62,F,Kibuli,T.B,Wednesday,Kiruddu
+486,Dolan,60,M,Katanga,COVID-19,Wednesday,Kiruddu
+487,Cheryl,37,M,Kanyanya,COVID-19,Wednesday,Kiruddu
+488,Courtney,43,F,Kawempe,Malaria,Wednesday,Kiruddu
+489,Neville,42,F,Makindye,Typhoid,Wednesday,Kiruddu
+490,Gloria,55,F,Arua,Malaria,Wednesday,Kiruddu
+491,Jonah,46,M,Kisenyi,Malaria,Wednesday,Kiruddu
+492,Merrill,50,M,Gayaza,Typhoid,Wednesday,Kiruddu
+493,Nolan,55,F,Gayaza,T.B,Wednesday,Kiruddu
+494,Winter,43,F,Kawempe,COVID-19,Wednesday,Kiruddu
+495,Rigel,52,F,Nansana,COVID-19,Wednesday,Kiruddu
+496,Walter,41,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+497,Vanna,38,M,Kasangati,Malaria,Wednesday,Kiruddu
+498,Pearl,54,M,Wandengeya,Typhoid,Wednesday,Kiruddu
+499,Nell,59,M,Makerere,T.B,Wednesday,Kiruddu
+500,Marla,47,M,Katanga,Malaria,Wednesday,Kiruddu

@@ -1,0 +1,1445 @@
+patientName,age,sex,address,disease,day,hospital
+Abel Stanton,40,M,Kampala,Malaria,Wednesday,Mulago
+Brian Mathews,30,M,Bwaise,COVID-19,Thursday,Kiruddu
+Brock,42,M,Makindye,COVID-19,Tuesday,Mulago
+Brock,42,M,Makindye,COVID-19,Tuesday,Kiruddu
+"Burke, Simon H.",39,M,Kikoni,T.B,Thursday,Mulago
+"Burke, Simon H.",39,M,Kikoni,T.B,Thursday,Muh
+"Burke, Simon H.",39,M,Kikoni,T.B,Thursday,Kiruddu
+Burton Carroll,42,F,Makindye,COVID-19,Saturday,Mulago
+Abel Stanton,40,M,Kawempe,Malaria,Wednesday,Muh
+Abel Stanton,40,M,Kamwokya,Malaria,Wednesday,Kiruddu
+Abigail X. Lindsey,63,F,Kawempe,Malaria,Wednesday,Mulago
+Abigail X. Lindsey,63,F,Kawempe,Malaria,Wednesday,Muh
+Abigail X. Lindsey,63,F,Kawempe,Malaria,Wednesday,Kiruddu
+Abra D. Golden,54,F,Wandengeya,Malaria,Sunday,Mulago
+Abra D. Golden,54,F,Wandengeya,Malaria,Sunday,Muh
+Abra D. Golden,54,F,Wandengeya,Malaria,Sunday,Kiruddu
+Adria Mathis,57,M,Kibuye,COVID-19,Wednesday,Mulago
+Adria Mathis,57,M,Kibuye,COVID-19,Wednesday,Muh
+Adria Mathis,57,M,Kibuye,COVID-19,Wednesday,Kiruddu
+Adrian Brock,54,F,Kawempe,Malaria,Thursday,Mulago
+Adrian Brock,54,F,Kawempe,Malaria,Thursday,Muh
+Adrian Brock,54,F,Kawempe,Malaria,Thursday,Kiruddu
+Adrienne,38,F,Nansana,Typhoid,Monday,Mulago
+Adrienne,38,F,Nansana,Typhoid,Monday,Muh
+Adrienne,38,F,Nansana,Typhoid,Monday,Kiruddu
+Adrienne Bolton,40,M,Kawempe,Malaria,Monday,Mulago
+Adrienne Bolton,40,M,Kawempe,Malaria,Tuesday,Muh
+Adrienne Bolton,40,M,Kawempe,Malaria,Tuesday,Kiruddu
+Ahmed Wright,50,M,Kawempe,COVID-19,Saturday,Mulago
+Ahmed Wright,50,M,Kawempe,COVID-19,Saturday,Muh
+Ahmed Wright,50,M,Kawempe,COVID-19,Saturday,Kiruddu
+Aileen,43,F,Wampeewo,T.B,Monday,Mulago
+Aileen,43,F,Wampeewo,T.B,Monday,Muh
+Aileen,43,F,Wampeewo,T.B,Monday,Kiruddu
+Akeem Gibson,53,M,Kiteezi,T.B,Monday,Kiruddu
+Alan Browning,45,M,Kamwokya,Malaria,Saturday,Mulago
+Alan Browning,45,M,Kamwokya,Malaria,Saturday,Muh
+Alan Browning,45,M,Kamwokya,Malaria,Saturday,Kiruddu
+Alexander York,44,M,Kanyanya,Typhoid,Wednesday,Mulago
+Alexander York,44,M,Kanyanya,Typhoid,Wednesday,Muh
+Alexander York,44,M,Kanyanya,Typhoid,Wednesday,Kiruddu
+Alfreda V. Harrell,37,M,Kawempe,T.B,Sunday,Mulago
+Alfreda V. Harrell,37,M,Kawempe,T.B,Sunday,Muh
+Alfreda V. Harrell,37,M,Kawempe,T.B,Sunday,Kiruddu
+Ali Strong,56,M,Kisenyi,T.B,Saturday,Mulago
+Ali Strong,56,M,Kisenyi,T.B,Saturday,Muh
+Ali Strong,56,M,Kisenyi,T.B,Saturday,Kiruddu
+Allen Burke,39,M,Kibuli,COVID-19,Friday,Mulago
+Allen Burke,39,M,Kibuli,COVID-19,Friday,Muh
+Allen Burke,39,M,Kibuli,COVID-19,Friday,Kiruddu
+Alma Pope,56,F,Arua,Malaria,Monday,Muh
+Alma Pope,56,F,Arua,Malaria,Monday,Kiruddu
+Amery Cortez,50,M,Makerere,COVID-19,Monday,Mulago
+Amery Cortez,50,M,Makerere,COVID-19,Tuesday,Muh
+Amery Cortez,50,M,Makerere,COVID-19,Tuesday,Kiruddu
+Anjolie A. Galloway,44,F,Nansana,COVID-19,Monday,Mulago
+Anjolie A. Galloway,44,F,Nansana,COVID-19,Tuesday,Muh
+Anjolie A. Galloway,44,F,Nansana,COVID-19,Tuesday,Kiruddu
+Ariana Nash,47,M,Wampeewo,Typhoid,Wednesday,Mulago
+Ariana Nash,47,M,Wampeewo,Typhoid,Thursday,Muh
+Ariana Nash,47,M,Wampeewo,Typhoid,Thursday,Kiruddu
+Aristotle,42,F,Katwe,Typhoid,Monday,Mulago
+Aristotle,42,F,Katwe,Typhoid,Monday,Muh
+Aristotle,42,F,Katwe,Typhoid,Monday,Kiruddu
+Armando Hensley,42,M,Kisenyi,Typhoid,Tuesday,Mulago
+Armando Hensley,42,M,Kisenyi,Typhoid,Wednesday,Muh
+Armando Hensley,42,M,Kisenyi,Typhoid,Wednesday,Kiruddu
+"Armstrong, Hedda N.",51,F,Nakasero,Malaria,Thursday,Mulago
+"Armstrong, Hedda N.",51,F,Nakasero,Malaria,Thursday,Muh
+"Armstrong, Hedda N.",51,F,Nakasero,Malaria,Thursday,Kiruddu
+"Armstrong, Naomi D.",38,M,Wandengeya,COVID-19,Thursday,Mulago
+"Armstrong, Naomi D.",38,M,Wandengeya,COVID-19,Thursday,Muh
+"Armstrong, Naomi D.",38,M,Wandengeya,COVID-19,Thursday,Kiruddu
+"Ashley, Macon Z.",50,M,Gayaza,Malaria,Wednesday,Mulago
+"Ashley, Macon Z.",50,M,Gayaza,Malaria,Thursday,Muh
+"Ashley, Macon Z.",50,M,Gayaza,Malaria,Thursday,Kiruddu
+Athena Wolf,59,F,Nakasero,T.B,Monday,Muh
+Athena Wolf,59,F,Nakasero,T.B,Monday,Kiruddu
+August Duncan,37,M,Gayaza,Malaria,Saturday,Mulago
+August Duncan,37,M,Gayaza,Malaria,Saturday,Muh
+August Duncan,37,M,Gayaza,Malaria,Saturday,Kiruddu
+Avye,32,F,Arua,Malaria,Tuesday,Mulago
+Avye,32,F,Arua,Malaria,Tuesday,Muh
+Avye,32,F,Arua,Malaria,Tuesday,Kiruddu
+Baker Norton,39,M,Kawempe,Typhoid,Friday,Mulago
+Baker Norton,39,M,Kawempe,Typhoid,Friday,Muh
+Baker Norton,39,M,Kawempe,Typhoid,Friday,Kiruddu
+Baker Saunders,51,F,Nansana,Malaria,Friday,Mulago
+Baker Saunders,51,F,Nansana,Malaria,Friday,Muh
+Baker Saunders,51,F,Nansana,Malaria,Friday,Kiruddu
+Barclay,56,F,Gayaza,Typhoid,Tuesday,Mulago
+Barclay,56,F,Gayaza,Typhoid,Tuesday,Muh
+Barclay,56,F,Gayaza,Typhoid,Tuesday,Kiruddu
+"Barr, Hyatt D.",56,M,Arua,Typhoid,Saturday,Mulago
+"Barr, Hyatt D.",56,M,Arua,Typhoid,Saturday,Muh
+"Barr, Hyatt D.",56,M,Arua,Typhoid,Saturday,Kiruddu
+Barry Larsen,57,F,Kawempe,T.B,Thursday,Mulago
+Barry Larsen,57,F,Kawempe,T.B,Thursday,Muh
+Barry Larsen,57,F,Kawempe,T.B,Thursday,Kiruddu
+"Beach, Victor S.",58,M,Kasangati,Malaria,Monday,Mulago
+"Beach, Victor S.",36,F,Kanyanya,COVID-19,Friday,Mulago
+"Beach, Victor S.",36,F,Kanyanya,COVID-19,Friday,Muh
+"Beach, Victor S.",36,F,Kanyanya,COVID-19,Friday,Kiruddu
+Bell K. Romero,39,M,Bwaise,Malaria,Monday,Mulago
+Bell K. Romero,39,M,Bwaise,Malaria,Monday,Kiruddu
+Benedict Serrano,48,M,Makindye,T.B,Thursday,Mulago
+Benedict Serrano,48,M,Makindye,T.B,Thursday,Muh
+Benedict Serrano,48,M,Makindye,T.B,Thursday,Kiruddu
+Benjamin,61,F,Bwaise,COVID-19,Saturday,Mulago
+Benjamin,61,F,Bwaise,COVID-19,Saturday,Muh
+Benjamin,61,F,Bwaise,COVID-19,Saturday,Kiruddu
+Bert,43,F,Makindye,Typhoid,Tuesday,Mulago
+Bert,43,F,Makindye,Typhoid,Wednesday,Muh
+Bert,43,F,Makindye,Typhoid,Wednesday,Kiruddu
+"Blackburn, Joel Y.",40,F,Kanyanya,Malaria,Monday,Mulago
+"Blackburn, Joel Y.",53,M,Wandengeya,T.B,Friday,Mulago
+"Blackburn, Joel Y.",53,M,Wandengeya,T.B,Friday,Muh
+"Blackburn, Joel Y.",53,M,Wandengeya,T.B,Friday,Kiruddu
+Blaine Bender,45,F,Bwaise,Typhoid,Monday,Kiruddu
+"Blair, Abra U.",41,F,Nansana,Typhoid,Monday,Mulago
+"Blair, Abra U.",37,M,Kibuli,T.B,Friday,Mulago
+"Blair, Abra U.",37,M,Kibuli,T.B,Friday,Muh
+"Blair, Abra U.",37,M,Kibuli,T.B,Friday,Kiruddu
+Blaze,49,F,Katanga,Malaria,Saturday,Mulago
+Blaze,49,F,Katanga,Malaria,Saturday,Muh
+Blaze,49,F,Katanga,Malaria,Saturday,Kiruddu
+Blythe Romero,52,M,Kawempe,Malaria,Monday,Muh
+Blythe Romero,52,M,Kawempe,Malaria,Monday,Kiruddu
+"Bond, Caryn Y.",54,M,Nansana,COVID-19,Wednesday,Mulago
+"Bond, Caryn Y.",54,M,Nansana,COVID-19,Thursday,Muh
+"Bond, Caryn Y.",54,M,Nansana,COVID-19,Thursday,Kiruddu
+"Bond, Nyssa S.",52,F,Katanga,T.B,Wednesday,Mulago
+"Bond, Nyssa S.",52,F,Katanga,T.B,Thursday,Muh
+"Bond, Nyssa S.",52,F,Katanga,T.B,Thursday,Kiruddu
+"Bradford, Daquan F.",48,F,Kamwokya,COVID-19,Monday,Mulago
+"Bradford, Daquan F.",44,M,Kibuye,Malaria,Friday,Mulago
+"Bradford, Daquan F.",44,M,Kibuye,Malaria,Friday,Muh
+"Bradford, Daquan F.",44,M,Kibuye,Malaria,Friday,Kiruddu
+Brady,58,M,Bwaise,Typhoid,Monday,Mulago
+Brady,58,M,Bwaise,Typhoid,Monday,Muh
+Brady,58,M,Bwaise,Typhoid,Monday,Kiruddu
+"Brady, Oscar Y.",51,F,Gayaza,Typhoid,Thursday,Mulago
+"Brady, Oscar Y.",51,F,Gayaza,Typhoid,Thursday,Muh
+"Brady, Oscar Y.",51,F,Gayaza,Typhoid,Thursday,Kiruddu
+Brandon,33,F,Gayaza,Typhoid,Monday,Mulago
+Brandon,33,F,Gayaza,Typhoid,Tuesday,Muh
+Brandon,33,F,Gayaza,Typhoid,Tuesday,Kiruddu
+Brendan G. Kelley,43,M,Kikoni,Typhoid,Monday,Mulago
+Brendan G. Kelley,43,M,Kikoni,Typhoid,Tuesday,Muh
+Brendan G. Kelley,43,M,Kikoni,Typhoid,Tuesday,Kiruddu
+Brian Mathews,30,M,Bwaise,COVID-19,Wednesday,Mulago
+Brian Mathews,30,M,Bwaise,COVID-19,Thursday,Muh
+Burton Carroll,42,F,Makindye,COVID-19,Saturday,Muh
+Burton Carroll,42,F,Makindye,COVID-19,Saturday,Kiruddu
+"Bush, Jessica C.",47,F,Kawempe,COVID-19,Thursday,Mulago
+"Bush, Jessica C.",47,F,Kawempe,COVID-19,Thursday,Muh
+"Bush, Jessica C.",47,F,Kawempe,COVID-19,Thursday,Kiruddu
+Cain Love,44,M,Nakasero,Typhoid,Thursday,Mulago
+Cain Love,44,M,Nakasero,Typhoid,Thursday,Muh
+Cain Love,44,M,Nakasero,Typhoid,Thursday,Kiruddu
+Caldwell,36,M,Kikoni,Malaria,Saturday,Mulago
+Caldwell,36,M,Kikoni,Malaria,Saturday,Muh
+Caldwell,36,M,Kikoni,Malaria,Saturday,Kiruddu
+"Caldwell, Yolanda F.",48,F,Kanyanya,COVID-19,Thursday,Mulago
+"Caldwell, Yolanda F.",48,F,Kanyanya,COVID-19,Thursday,Muh
+"Caldwell, Yolanda F.",48,F,Kanyanya,COVID-19,Thursday,Kiruddu
+Callum U. Sweet,52,F,Kamwokya,COVID-19,Monday,Mulago
+Callum U. Sweet,52,F,Kamwokya,COVID-19,Monday,Muh
+Callum U. Sweet,52,F,Kamwokya,COVID-19,Monday,Kiruddu
+Cally Montoya,33,M,Wandengeya,Typhoid,Wednesday,Mulago
+Cally Montoya,33,M,Wandengeya,Typhoid,Wednesday,Muh
+Cally Montoya,33,M,Wandengeya,Typhoid,Wednesday,Kiruddu
+Calvin A. Lancaster,29,M,Kawempe,Typhoid,Tuesday,Mulago
+Calvin A. Lancaster,29,M,Kawempe,Typhoid,Wednesday,Muh
+Calvin A. Lancaster,29,M,Kawempe,Typhoid,Wednesday,Kiruddu
+Camden,20,M,Wandengeya,Malaria,Monday,Mulago
+Camden,20,M,Wandengeya,Malaria,Monday,Muh
+Camden,20,M,Wandengeya,Malaria,Monday,Kiruddu
+Cameran,48,F,Kisenyi,Malaria,Sunday,Mulago
+Cameran,48,F,Kisenyi,Malaria,Sunday,Muh
+Cameran,48,F,Kisenyi,Malaria,Sunday,Kiruddu
+Cameron Cash,54,M,Kisenyi,T.B,Friday,Mulago
+Cameron Cash,54,M,Kisenyi,T.B,Friday,Muh
+Cameron Cash,54,M,Kisenyi,T.B,Friday,Kiruddu
+"Cameron, Kimberley P.",55,M,Bwaise,Malaria,Thursday,Mulago
+"Cameron, Kimberley P.",55,M,Bwaise,Malaria,Thursday,Muh
+"Cameron, Kimberley P.",55,M,Bwaise,Malaria,Thursday,Kiruddu
+Carla Hester,57,M,Makerere,T.B,Monday,Muh
+Carla Hester,57,M,Makerere,T.B,Monday,Kiruddu
+Caryn Hendrix,40,F,Kanyanya,Malaria,Monday,Muh
+Caryn Hendrix,40,F,Kanyanya,Malaria,Monday,Kiruddu
+"Casey, Sylvia E.",42,F,Kawempe,Malaria,Thursday,Mulago
+"Casey, Sylvia E.",42,F,Kawempe,Malaria,Thursday,Muh
+"Casey, Sylvia E.",42,F,Kawempe,Malaria,Thursday,Kiruddu
+Cassady L. Foreman,39,F,Kawempe,Typhoid,Monday,Mulago
+Cassady L. Foreman,39,F,Kawempe,Typhoid,Monday,Kiruddu
+Castor Wood,40,M,Gayaza,COVID-19,Monday,Mulago
+Castor Wood,40,M,Gayaza,COVID-19,Tuesday,Muh
+Castor Wood,40,M,Gayaza,COVID-19,Tuesday,Kiruddu
+Cathleen E. Ortega,55,F,Makindye,Malaria,Monday,Mulago
+Cathleen E. Ortega,55,F,Makindye,Malaria,Monday,Muh
+Cathleen E. Ortega,55,F,Makindye,Malaria,Monday,Kiruddu
+Cedric Leach,57,M,Wandengeya,Typhoid,Monday,Muh
+Cedric Leach,57,M,Wandengeya,Typhoid,Monday,Kiruddu
+"Cervantes, Rylee Q.",35,M,Gayaza,Typhoid,Wednesday,Mulago
+"Cervantes, Rylee Q.",35,M,Gayaza,Typhoid,Wednesday,Muh
+"Cervantes, Rylee Q.",35,M,Gayaza,Typhoid,Wednesday,Kiruddu
+Chaim Lewis,59,F,Wampeewo,COVID-19,Thursday,Mulago
+Chaim Lewis,59,F,Wampeewo,COVID-19,Thursday,Muh
+Chaim Lewis,59,F,Wampeewo,COVID-19,Thursday,Kiruddu
+"Chambers, Avram C.",63,M,Kisenyi,Typhoid,Wednesday,Mulago
+"Chambers, Avram C.",63,M,Kisenyi,Typhoid,Wednesday,Muh
+"Chambers, Avram C.",63,M,Kisenyi,Typhoid,Wednesday,Kiruddu
+Chancellor Padilla,47,M,Makindye,COVID-19,Friday,Mulago
+Chancellor Padilla,47,M,Makindye,COVID-19,Friday,Muh
+Chancellor Padilla,47,M,Makindye,COVID-19,Friday,Kiruddu
+Chancellor Patel,38,M,Katanga,Typhoid,Saturday,Mulago
+Chancellor Patel,38,M,Katanga,Typhoid,Saturday,Muh
+Chancellor Patel,38,M,Katanga,Typhoid,Saturday,Kiruddu
+"Chaney, Reuben I.",61,F,Gayaza,Malaria,Saturday,Mulago
+"Chaney, Reuben I.",61,F,Gayaza,Malaria,Saturday,Kiruddu
+Charlotte Waller,43,M,Makindye,Malaria,Tuesday,Mulago
+Charlotte Waller,43,M,Makindye,Malaria,Tuesday,Muh
+Charlotte Waller,43,M,Makindye,Malaria,Tuesday,Kiruddu
+"Chavez, Ralph U.",37,F,Wampeewo,T.B,Saturday,Mulago
+"Chavez, Ralph U.",37,F,Wampeewo,T.B,Saturday,Kiruddu
+Cheryl,37,M,Kanyanya,COVID-19,Tuesday,Mulago
+Cheryl,37,M,Kanyanya,COVID-19,Wednesday,Muh
+Cheryl,37,M,Kanyanya,COVID-19,Wednesday,Kiruddu
+Chester,58,F,Kibuli,Malaria,Tuesday,Mulago
+Chester,58,F,Kibuli,Malaria,Tuesday,Muh
+Chester,58,F,Kibuli,Malaria,Tuesday,Kiruddu
+Chester X. Carrillo,40,M,Kibuli,Malaria,Tuesday,Mulago
+Chester X. Carrillo,40,M,Kibuli,Malaria,Tuesday,Muh
+Chester X. Carrillo,40,M,Kibuli,Malaria,Tuesday,Kiruddu
+Christian Hernandez,50,M,Nakifuma,Typhoid,Saturday,Mulago
+Christian Hernandez,50,M,Nakifuma,Typhoid,Saturday,Muh
+Christian Hernandez,50,M,Nakifuma,Typhoid,Saturday,Kiruddu
+Christian Huffman,45,F,Katwe,Malaria,Saturday,Mulago
+Christian Huffman,45,F,Katwe,Malaria,Saturday,Muh
+Christian Huffman,45,F,Katwe,Malaria,Saturday,Kiruddu
+Christopher Stevens,48,M,Kikoni,Typhoid,Monday,Mulago
+Christopher Stevens,48,M,Kikoni,Typhoid,Tuesday,Muh
+Christopher Stevens,48,M,Kikoni,Typhoid,Tuesday,Kiruddu
+"Church, Lareina E.",40,F,Kawempe,COVID-19,Saturday,Mulago
+"Church, Lareina E.",40,F,Kawempe,COVID-19,Saturday,Muh
+"Church, Lareina E.",40,F,Kawempe,COVID-19,Saturday,Kiruddu
+Clementine X. Powell,42,F,Katwe,Typhoid,Wednesday,Mulago
+Clementine X. Powell,42,F,Katwe,Typhoid,Wednesday,Muh
+Clementine X. Powell,42,F,Katwe,Typhoid,Wednesday,Kiruddu
+Cleo Moore,45,F,Katwe,Malaria,Wednesday,Mulago
+Cleo Moore,45,F,Katwe,Malaria,Wednesday,Muh
+Cleo Moore,45,F,Katwe,Malaria,Wednesday,Kiruddu
+Coby Charles,51,F,Wandengeya,COVID-19,Monday,Mulago
+Coby Charles,51,F,Wandengeya,COVID-19,Tuesday,Muh
+Coby Charles,51,F,Wandengeya,COVID-19,Tuesday,Kiruddu
+Cody G. Gill,46,M,Kawempe,COVID-19,Monday,Mulago
+Cody G. Gill,46,M,Kawempe,COVID-19,Monday,Muh
+Cody G. Gill,46,M,Kawempe,COVID-19,Monday,Kiruddu
+Colleen S. Mcguire,44,F,Kamwokya,COVID-19,Wednesday,Mulago
+Colleen S. Mcguire,44,F,Kamwokya,COVID-19,Wednesday,Muh
+Colleen S. Mcguire,44,F,Kamwokya,COVID-19,Wednesday,Kiruddu
+"Collier, Xerxes Q.",53,M,Kibuye,COVID-19,Monday,Mulago
+"Collier, Xerxes Q.",43,F,Bwaise,Typhoid,Friday,Mulago
+"Collier, Xerxes Q.",43,F,Bwaise,Typhoid,Friday,Muh
+"Collier, Xerxes Q.",43,F,Bwaise,Typhoid,Friday,Kiruddu
+"Cote, Evangeline F.",47,F,Kikoni,COVID-19,Monday,Mulago
+"Cote, Evangeline F.",43,M,Wampeewo,Typhoid,Friday,Mulago
+"Cote, Evangeline F.",43,M,Wampeewo,Typhoid,Friday,Muh
+"Cote, Evangeline F.",43,M,Wampeewo,Typhoid,Friday,Kiruddu
+Courtney,43,F,Kawempe,Malaria,Tuesday,Mulago
+Courtney,43,F,Kawempe,Malaria,Wednesday,Muh
+Courtney,43,F,Kawempe,Malaria,Wednesday,Kiruddu
+Curran,37,M,Gayaza,COVID-19,Monday,Mulago
+Curran,37,M,Gayaza,COVID-19,Monday,Muh
+Curran,37,M,Gayaza,COVID-19,Monday,Kiruddu
+Dahlia Cleveland,51,M,Nansana,COVID-19,Monday,Mulago
+Dahlia Cleveland,51,M,Nansana,COVID-19,Tuesday,Muh
+Dahlia Cleveland,51,M,Nansana,COVID-19,Tuesday,Kiruddu
+"Dalton, Grant D.",45,M,Kiteezi,Typhoid,Thursday,Mulago
+"Dalton, Grant D.",45,M,Kiteezi,Typhoid,Thursday,Muh
+"Dalton, Grant D.",45,M,Kiteezi,Typhoid,Thursday,Kiruddu
+Damon K. Boone,43,M,Kiteezi,Malaria,Tuesday,Mulago
+Damon K. Boone,43,M,Kiteezi,Malaria,Tuesday,Muh
+Damon K. Boone,43,M,Kiteezi,Malaria,Tuesday,Kiruddu
+Darius Herring,50,F,Kawempe,Typhoid,Friday,Mulago
+Darius Herring,50,F,Kawempe,Typhoid,Friday,Muh
+Darius Herring,50,F,Kawempe,Typhoid,Friday,Kiruddu
+"Daugherty, Veda M.",44,F,Nakifuma,Malaria,Monday,Mulago
+"Daugherty, Veda M.",48,M,Katanga,COVID-19,Friday,Mulago
+"Daugherty, Veda M.",48,M,Katanga,COVID-19,Friday,Muh
+"Daugherty, Veda M.",48,M,Katanga,COVID-19,Friday,Kiruddu
+Davis Scott,41,F,Kalerwe,Malaria,Wednesday,Mulago
+Davis Scott,41,F,Kalerwe,Malaria,Wednesday,Muh
+Davis Scott,41,F,Kalerwe,Malaria,Wednesday,Kiruddu
+Dean Snider,35,F,Makindye,T.B,Thursday,Mulago
+Dean Snider,35,F,Makindye,T.B,Thursday,Muh
+Dean Snider,35,F,Makindye,T.B,Thursday,Kiruddu
+"Decker, Jolie T.",41,M,Gayaza,Typhoid,Saturday,Mulago
+"Decker, Jolie T.",41,M,Gayaza,Typhoid,Saturday,Kiruddu
+"Delgado, Jasper U.",43,M,Bwaise,Malaria,Monday,Mulago
+"Delgado, Jasper U.",58,M,Kasangati,T.B,Friday,Mulago
+"Delgado, Jasper U.",58,M,Kasangati,T.B,Friday,Muh
+"Delgado, Jasper U.",58,M,Kasangati,T.B,Friday,Kiruddu
+Demetria,44,F,Makindye,COVID-19,Monday,Mulago
+Demetria,44,F,Makindye,COVID-19,Monday,Muh
+Demetria,44,F,Makindye,COVID-19,Monday,Kiruddu
+Denise,62,F,Kalerwe,T.B,Monday,Mulago
+Denise,62,F,Kalerwe,T.B,Monday,Muh
+Denise,62,F,Kalerwe,T.B,Monday,Kiruddu
+Dennis,49,M,Kanyanya,Typhoid,Monday,Mulago
+Dennis,49,M,Kanyanya,Typhoid,Monday,Muh
+Dennis,49,M,Kanyanya,Typhoid,Monday,Kiruddu
+Dennis N. Thompson,42,F,Kibuli,Malaria,Wednesday,Mulago
+Dennis N. Thompson,42,F,Kibuli,Malaria,Wednesday,Muh
+Dennis N. Thompson,42,F,Kibuli,Malaria,Wednesday,Kiruddu
+Derek X. Richards,45,M,Arua,COVID-19,Wednesday,Mulago
+Derek X. Richards,45,M,Arua,COVID-19,Wednesday,Muh
+Derek X. Richards,45,M,Arua,COVID-19,Wednesday,Kiruddu
+Desirae Stone,59,M,Gayaza,COVID-19,Wednesday,Mulago
+Desirae Stone,59,M,Gayaza,COVID-19,Wednesday,Muh
+Desirae Stone,59,M,Gayaza,COVID-19,Wednesday,Kiruddu
+Devin Humphrey,47,F,Katanga,COVID-19,Friday,Mulago
+Devin Humphrey,47,F,Katanga,COVID-19,Friday,Muh
+Devin Humphrey,47,F,Katanga,COVID-19,Friday,Kiruddu
+Dexter,43,M,Arua,COVID-19,Saturday,Mulago
+Dexter,43,M,Arua,COVID-19,Saturday,Muh
+Dexter,43,M,Arua,COVID-19,Saturday,Kiruddu
+Diana,60,F,Katanga,COVID-19,Tuesday,Mulago
+Diana,60,F,Katanga,COVID-19,Tuesday,Kiruddu
+Dieter Delaney,34,F,Gayaza,COVID-19,Friday,Mulago
+Dieter Delaney,34,F,Gayaza,COVID-19,Friday,Muh
+Dieter Delaney,34,F,Gayaza,COVID-19,Friday,Kiruddu
+"Dillon, Lynn W.",47,M,Katanga,COVID-19,Monday,Mulago
+"Dillon, Lynn W.",35,F,Katwe,Typhoid,Friday,Mulago
+"Dillon, Lynn W.",35,F,Katwe,Typhoid,Friday,Muh
+"Dillon, Lynn W.",35,F,Katwe,Typhoid,Friday,Kiruddu
+Dolan,60,M,Katanga,COVID-19,Tuesday,Mulago
+Dolan,60,M,Katanga,COVID-19,Wednesday,Muh
+Dolan,60,M,Katanga,COVID-19,Wednesday,Kiruddu
+Dolan Clayton,48,F,Kisenyi,COVID-19,Thursday,Mulago
+Dolan Clayton,48,F,Kisenyi,COVID-19,Thursday,Muh
+Dolan Clayton,48,F,Kisenyi,COVID-19,Thursday,Kiruddu
+Dominic Hughes,43,M,Katanga,Malaria,Thursday,Mulago
+Dominic Hughes,43,M,Katanga,Malaria,Thursday,Muh
+Dominic Hughes,43,M,Katanga,Malaria,Thursday,Kiruddu
+Dominic I. Faulkner,48,F,Wandengeya,Typhoid,Wednesday,Mulago
+Dominic I. Faulkner,48,F,Wandengeya,Typhoid,Wednesday,Muh
+Dominic I. Faulkner,48,F,Wandengeya,Typhoid,Wednesday,Kiruddu
+Dominic Mcintosh,44,F,Kibuli,COVID-19,Thursday,Mulago
+Dominic Mcintosh,44,F,Kibuli,COVID-19,Thursday,Kiruddu
+Donovan,36,M,Kibuli,Typhoid,Saturday,Mulago
+Donovan,36,M,Kibuli,Typhoid,Saturday,Muh
+Donovan,36,M,Kibuli,Typhoid,Saturday,Kiruddu
+Dorian Hernandez,50,M,Arua,Typhoid,Tuesday,Mulago
+Dorian Hernandez,50,M,Arua,Typhoid,Wednesday,Muh
+Dorian Hernandez,50,M,Arua,Typhoid,Wednesday,Kiruddu
+Drake Chen,42,F,Kiteezi,Typhoid,Saturday,Mulago
+Drake Chen,42,F,Kiteezi,Typhoid,Saturday,Muh
+Drake Chen,42,F,Kiteezi,Typhoid,Saturday,Kiruddu
+Drake D. Gray,39,M,Arua,Typhoid,Monday,Mulago
+Drake D. Gray,39,M,Arua,Typhoid,Monday,Muh
+Drake D. Gray,39,M,Arua,Typhoid,Monday,Kiruddu
+"Dudley, Ryder M.",35,M,Kawempe,Typhoid,Thursday,Mulago
+"Dudley, Ryder M.",35,M,Kawempe,Typhoid,Thursday,Muh
+"Dudley, Ryder M.",35,M,Kawempe,Typhoid,Thursday,Kiruddu
+"Dyer, Aline L.",44,F,Kasangati,Malaria,Wednesday,Mulago
+"Dyer, Aline L.",44,F,Kasangati,Malaria,Thursday,Muh
+"Dyer, Aline L.",44,F,Kasangati,Malaria,Thursday,Kiruddu
+Eagan Woodward,58,M,Makindye,Typhoid,Wednesday,Mulago
+Eagan Woodward,58,M,Makindye,Typhoid,Wednesday,Muh
+Eagan Woodward,58,M,Makindye,Typhoid,Wednesday,Kiruddu
+Edward,35,M,Kawempe,COVID-19,Tuesday,Mulago
+Edward,35,M,Kawempe,COVID-19,Tuesday,Kiruddu
+Elliott Horne,62,F,Bwaise,Typhoid,Thursday,Mulago
+Elliott Horne,62,F,Bwaise,Typhoid,Thursday,Muh
+Elliott Horne,62,F,Bwaise,Typhoid,Thursday,Kiruddu
+Emerald Hamilton,49,F,Makerere,COVID-19,Wednesday,Mulago
+Emerald Hamilton,49,F,Makerere,COVID-19,Thursday,Muh
+Emerald Hamilton,49,F,Makerere,COVID-19,Thursday,Kiruddu
+Emerald R. Cohen,51,F,Kawempe,Malaria,Sunday,Mulago
+Emerald R. Cohen,51,F,Kawempe,Malaria,Sunday,Muh
+Emerald R. Cohen,51,F,Kawempe,Malaria,Sunday,Kiruddu
+Emerald U. Hanson,49,F,Kanyanya,COVID-19,Monday,Mulago
+Emerald U. Hanson,49,F,Kanyanya,COVID-19,Monday,Muh
+Emerald U. Hanson,49,F,Kanyanya,COVID-19,Monday,Kiruddu
+"England, Abel D.",46,M,Kanyanya,COVID-19,Wednesday,Mulago
+"England, Abel D.",46,M,Kanyanya,COVID-19,Wednesday,Muh
+"England, Abel D.",46,M,Kanyanya,COVID-19,Wednesday,Kiruddu
+Eric Green,38,F,Gayaza,COVID-19,Friday,Mulago
+Eric Green,38,F,Gayaza,COVID-19,Friday,Muh
+Eric Green,38,F,Gayaza,COVID-19,Friday,Kiruddu
+Eric Noel,39,M,Kibuli,Typhoid,Tuesday,Mulago
+Eric Noel,39,M,Kibuli,Typhoid,Tuesday,Muh
+Eric Noel,39,M,Kibuli,Typhoid,Tuesday,Kiruddu
+Evangeline G. Cooper,47,M,Kisenyi,COVID-19,Wednesday,Mulago
+Evangeline G. Cooper,47,M,Kisenyi,COVID-19,Wednesday,Muh
+Evangeline G. Cooper,47,M,Kisenyi,COVID-19,Wednesday,Kiruddu
+Ferdinand Weber,32,M,Arua,T.B,Wednesday,Mulago
+Ferdinand Weber,32,M,Arua,T.B,Wednesday,Muh
+Ferdinand Weber,32,M,Arua,T.B,Wednesday,Kiruddu
+Florence,46,F,Kawempe,Malaria,Saturday,Mulago
+Florence,46,F,Kawempe,Malaria,Saturday,Muh
+Florence,46,F,Kawempe,Malaria,Saturday,Kiruddu
+Florence U. Hunter,47,F,Kibuli,T.B,Wednesday,Mulago
+Florence U. Hunter,47,F,Kibuli,T.B,Wednesday,Muh
+Florence U. Hunter,47,F,Kibuli,T.B,Wednesday,Kiruddu
+"Flores, Caldwell U.",41,F,Makerere,COVID-19,Thursday,Mulago
+"Flores, Caldwell U.",41,F,Makerere,COVID-19,Thursday,Muh
+"Flores, Caldwell U.",41,F,Makerere,COVID-19,Thursday,Kiruddu
+Francesca Cervantes,37,M,Kibuli,COVID-19,Tuesday,Mulago
+Francesca Cervantes,37,M,Kibuli,COVID-19,Tuesday,Kiruddu
+Francis,39,F,Makerere,Typhoid,Monday,Mulago
+Francis,39,F,Makerere,Typhoid,Tuesday,Muh
+Francis,39,F,Makerere,Typhoid,Tuesday,Kiruddu
+"Frazier, Kai O.",47,F,Makerere,Typhoid,Wednesday,Mulago
+"Frazier, Kai O.",47,F,Makerere,Typhoid,Thursday,Muh
+"Frazier, Kai O.",47,F,Makerere,Typhoid,Thursday,Kiruddu
+Fredericka Sanders,51,F,Katwe,Malaria,Monday,Mulago
+Fredericka Sanders,51,F,Katwe,Malaria,Tuesday,Muh
+Fredericka Sanders,51,F,Katwe,Malaria,Tuesday,Kiruddu
+"Fuentes, Dora E.",34,F,Katwe,Typhoid,Thursday,Mulago
+"Fuentes, Dora E.",34,F,Katwe,Typhoid,Thursday,Muh
+"Fuentes, Dora E.",34,F,Katwe,Typhoid,Thursday,Kiruddu
+Gabriel Carson,51,F,Wandengeya,Malaria,Thursday,Mulago
+Gabriel Carson,51,F,Wandengeya,Malaria,Thursday,Muh
+Gabriel Carson,51,F,Wandengeya,Malaria,Thursday,Kiruddu
+Gage Marquez,43,F,Katanga,COVID-19,Wednesday,Mulago
+Gage Marquez,43,F,Katanga,COVID-19,Thursday,Muh
+Gage Marquez,43,F,Katanga,COVID-19,Thursday,Kiruddu
+Gannon Marquez,41,M,Makerere,COVID-19,Saturday,Mulago
+Gannon Marquez,41,M,Makerere,COVID-19,Saturday,Muh
+Gannon Marquez,41,M,Makerere,COVID-19,Saturday,Kiruddu
+Gannon Nguyen,50,F,Kikoni,Malaria,Friday,Mulago
+Gannon Nguyen,50,F,Kikoni,Malaria,Friday,Muh
+Gannon Nguyen,50,F,Kikoni,Malaria,Friday,Kiruddu
+Gareth Morris,55,F,Kawempe,Malaria,Tuesday,Mulago
+Gareth Morris,55,F,Kawempe,Malaria,Wednesday,Muh
+Gareth Morris,55,F,Kawempe,Malaria,Wednesday,Kiruddu
+Gemma Hendrix,46,M,Kisenyi,COVID-19,Monday,Mulago
+Gemma Hendrix,46,M,Kisenyi,COVID-19,Monday,Muh
+Gemma Hendrix,46,M,Kisenyi,COVID-19,Monday,Kiruddu
+Gil,62,F,Kibuli,T.B,Tuesday,Mulago
+Gil,62,F,Kibuli,T.B,Wednesday,Muh
+Gil,62,F,Kibuli,T.B,Wednesday,Kiruddu
+Gil Sanders,70,F,Kikoni,Malaria,Saturday,Mulago
+Gil Sanders,70,F,Kikoni,Malaria,Saturday,Muh
+Gil Sanders,70,F,Kikoni,Malaria,Saturday,Kiruddu
+Glenna Graham,46,F,Kasangati,Typhoid,Wednesday,Mulago
+Glenna Graham,46,F,Kasangati,Typhoid,Thursday,Muh
+Glenna Graham,46,F,Kasangati,Typhoid,Thursday,Kiruddu
+Gloria,55,F,Arua,Malaria,Wednesday,Mulago
+Gloria,55,F,Arua,Malaria,Wednesday,Muh
+Gloria,55,F,Arua,Malaria,Wednesday,Kiruddu
+Graiden Powell,42,M,Kawempe,Malaria,Friday,Mulago
+Graiden Powell,42,M,Kawempe,Malaria,Friday,Muh
+Graiden Powell,42,M,Kawempe,Malaria,Friday,Kiruddu
+Gray F. Walker,45,F,Kawempe,Malaria,Tuesday,Mulago
+Gray F. Walker,45,F,Kawempe,Malaria,Tuesday,Muh
+Gray F. Walker,45,F,Kawempe,Malaria,Tuesday,Kiruddu
+"Gregory, Reuben Z.",40,M,Nakifuma,COVID-19,Thursday,Mulago
+"Gregory, Reuben Z.",40,M,Nakifuma,COVID-19,Thursday,Muh
+"Gregory, Reuben Z.",40,M,Nakifuma,COVID-19,Thursday,Kiruddu
+Griffin Rivera,47,M,Katanga,COVID-19,Monday,Muh
+Griffin Rivera,47,M,Katanga,COVID-19,Monday,Kiruddu
+"Gross, Cedric D.",37,F,Wampeewo,COVID-19,Wednesday,Mulago
+"Gross, Cedric D.",37,F,Wampeewo,COVID-19,Thursday,Muh
+"Gross, Cedric D.",37,F,Wampeewo,COVID-19,Thursday,Kiruddu
+Gwendolyn Rice,42,F,Gayaza,COVID-19,Tuesday,Mulago
+Gwendolyn Rice,42,F,Gayaza,COVID-19,Wednesday,Muh
+Gwendolyn Rice,42,F,Gayaza,COVID-19,Wednesday,Kiruddu
+Hakeem Mendoza,36,M,Kamwokya,Malaria,Friday,Mulago
+Hakeem Mendoza,36,M,Kamwokya,Malaria,Friday,Muh
+Hakeem Mendoza,36,M,Kamwokya,Malaria,Friday,Kiruddu
+Hammett A. Manning,41,M,Bwaise,COVID-19,Sunday,Mulago
+Hammett A. Manning,41,M,Bwaise,COVID-19,Sunday,Muh
+Hammett A. Manning,41,M,Bwaise,COVID-19,Sunday,Kiruddu
+Hammett F. Marsh,54,M,Gayaza,Malaria,Tuesday,Mulago
+Hammett F. Marsh,54,M,Gayaza,Malaria,Wednesday,Muh
+Hammett F. Marsh,54,M,Gayaza,Malaria,Wednesday,Kiruddu
+"Hampton, Venus Q.",55,F,Nansana,Malaria,Saturday,Mulago
+"Hampton, Venus Q.",55,F,Nansana,Malaria,Saturday,Kiruddu
+Hanna C. Martinez,60,F,Wampeewo,Typhoid,Monday,Mulago
+Hanna C. Martinez,60,F,Wampeewo,Typhoid,Monday,Kiruddu
+Harding E. York,42,M,Katwe,COVID-19,Monday,Mulago
+Harding E. York,42,M,Katwe,COVID-19,Monday,Kiruddu
+"Hardy, Hilary R.",50,M,Kalerwe,Typhoid,Monday,Mulago
+"Hardy, Hilary R.",49,M,Wandengeya,Malaria,Friday,Mulago
+"Hardy, Hilary R.",49,M,Wandengeya,Malaria,Friday,Muh
+"Hardy, Hilary R.",49,M,Wandengeya,Malaria,Friday,Kiruddu
+Harlan Barnes,41,F,Nansana,Typhoid,Monday,Muh
+Harlan Barnes,41,F,Nansana,Typhoid,Monday,Kiruddu
+"Harmon, David N.",48,F,Makindye,COVID-19,Monday,Mulago
+"Harmon, David N.",40,F,Katwe,COVID-19,Friday,Mulago
+"Harmon, David N.",40,F,Katwe,COVID-19,Friday,Muh
+"Harmon, David N.",40,F,Katwe,COVID-19,Friday,Kiruddu
+Harriet,47,F,Makindye,COVID-19,Monday,Mulago
+Harriet,47,F,Makindye,COVID-19,Monday,Muh
+Harriet,47,F,Makindye,COVID-19,Monday,Kiruddu
+Heather,29,M,Kanyanya,COVID-19,Tuesday,Mulago
+Heather,29,M,Kanyanya,COVID-19,Tuesday,Muh
+Heather,29,M,Kanyanya,COVID-19,Tuesday,Kiruddu
+Heather G. Goodwin,41,M,Wandengeya,COVID-19,Tuesday,Mulago
+Heather G. Goodwin,41,M,Wandengeya,COVID-19,Tuesday,Muh
+Heather G. Goodwin,41,M,Wandengeya,COVID-19,Tuesday,Kiruddu
+Hector Bowers,45,M,Katwe,COVID-19,Thursday,Mulago
+Hector Bowers,45,M,Katwe,COVID-19,Thursday,Muh
+Hector Bowers,45,M,Katwe,COVID-19,Thursday,Kiruddu
+Hector F. Leblanc,64,F,Kanyanya,Typhoid,Sunday,Mulago
+Hector F. Leblanc,64,F,Kanyanya,Typhoid,Sunday,Muh
+Hector F. Leblanc,64,F,Kanyanya,Typhoid,Sunday,Kiruddu
+Hector Price,57,M,Makerere,COVID-19,Friday,Mulago
+Hector Price,57,M,Makerere,COVID-19,Friday,Muh
+Hector Price,57,M,Makerere,COVID-19,Friday,Kiruddu
+Hedda Miranda,53,F,Kawempe,Typhoid,Monday,Muh
+Hedda Miranda,53,F,Kawempe,Typhoid,Monday,Kiruddu
+Hedley Greene,47,F,Makindye,T.B,Wednesday,Mulago
+Hedley Greene,47,F,Makindye,T.B,Wednesday,Muh
+Hedley Greene,47,F,Makindye,T.B,Wednesday,Kiruddu
+Herman Stevenson,33,M,Gayaza,COVID-19,Monday,Mulago
+Herman Stevenson,33,M,Gayaza,COVID-19,Tuesday,Muh
+Herman Stevenson,33,M,Gayaza,COVID-19,Tuesday,Kiruddu
+"Herman, Griffith P.",43,F,Makindye,COVID-19,Wednesday,Mulago
+"Herman, Griffith P.",43,F,Makindye,COVID-19,Wednesday,Muh
+"Herman, Griffith P.",43,F,Makindye,COVID-19,Wednesday,Kiruddu
+Hillary,39,M,Wandengeya,T.B,Monday,Mulago
+Hillary,39,M,Wandengeya,T.B,Tuesday,Muh
+Hillary,39,M,Wandengeya,T.B,Tuesday,Kiruddu
+Hiram,46,F,Makerere,COVID-19,Monday,Mulago
+Hiram,46,F,Makerere,COVID-19,Monday,Muh
+Hiram,46,F,Makerere,COVID-19,Monday,Kiruddu
+"Holloway, Brennan Q.",42,M,Wampeewo,COVID-19,Thursday,Mulago
+"Holloway, Brennan Q.",42,M,Wampeewo,COVID-19,Thursday,Muh
+"Holloway, Brennan Q.",42,M,Wampeewo,COVID-19,Thursday,Kiruddu
+Holly,44,M,Kamwokya,COVID-19,Monday,Mulago
+Holly,44,M,Kamwokya,COVID-19,Monday,Muh
+Holly,44,M,Kamwokya,COVID-19,Monday,Kiruddu
+Holmes Irwin,48,M,Katanga,COVID-19,Friday,Mulago
+Holmes Irwin,48,M,Katanga,COVID-19,Friday,Muh
+Holmes Irwin,48,M,Katanga,COVID-19,Friday,Kiruddu
+Holmes Lane,43,M,Wandengeya,Malaria,Wednesday,Mulago
+Holmes Lane,43,M,Wandengeya,Malaria,Thursday,Muh
+Holmes Lane,43,M,Wandengeya,Malaria,Thursday,Kiruddu
+"Holmes, Ross Y.",56,F,Arua,Malaria,Monday,Mulago
+"Holmes, Ross Y.",63,M,Kamwokya,Malaria,Friday,Mulago
+"Holmes, Ross Y.",63,M,Kamwokya,Malaria,Friday,Muh
+"Holmes, Ross Y.",63,M,Kamwokya,Malaria,Friday,Kiruddu
+Honorato M. Butler,43,M,Kisenyi,Typhoid,Monday,Mulago
+Honorato M. Butler,43,M,Kisenyi,Typhoid,Monday,Muh
+Honorato M. Butler,43,M,Kisenyi,Typhoid,Monday,Kiruddu
+Hop Farley,45,M,Gayaza,COVID-19,Friday,Mulago
+Hop Farley,45,M,Gayaza,COVID-19,Friday,Muh
+Hop Farley,45,M,Gayaza,COVID-19,Friday,Kiruddu
+"Hopper, Orson W.",48,M,Kisenyi,T.B,Saturday,Mulago
+"Hopper, Orson W.",48,M,Kisenyi,T.B,Saturday,Kiruddu
+"Houston, Grant O.",55,F,Kivulu,COVID-19,Monday,Mulago
+"Houston, Grant O.",35,M,Kikoni,Malaria,Friday,Mulago
+"Houston, Grant O.",35,M,Kikoni,Malaria,Friday,Muh
+"Houston, Grant O.",35,M,Kikoni,Malaria,Friday,Kiruddu
+"Hudson, Maxwell F.",49,F,Kisenyi,COVID-19,Thursday,Mulago
+"Hudson, Maxwell F.",49,F,Kisenyi,COVID-19,Thursday,Muh
+"Hudson, Maxwell F.",49,F,Kisenyi,COVID-19,Thursday,Kiruddu
+Hyatt,49,M,Gayaza,T.B,Sunday,Mulago
+Hyatt,49,M,Gayaza,T.B,Sunday,Muh
+Hyatt,49,M,Gayaza,T.B,Sunday,Kiruddu
+Igor,37,F,Kibuli,COVID-19,Tuesday,Mulago
+Igor,37,F,Kibuli,COVID-19,Tuesday,Kiruddu
+Ila Farrell,44,M,Nakasero,T.B,Wednesday,Mulago
+Ila Farrell,44,M,Nakasero,T.B,Wednesday,Muh
+Ila Farrell,44,M,Nakasero,T.B,Wednesday,Kiruddu
+Illana,63,M,Kanyanya,COVID-19,Saturday,Mulago
+Illana,63,M,Kanyanya,COVID-19,Saturday,Muh
+Illana,63,M,Kanyanya,COVID-19,Saturday,Kiruddu
+India,55,F,Bwaise,T.B,Tuesday,Mulago
+India,55,F,Bwaise,T.B,Tuesday,Kiruddu
+Indigo P. Dejesus,39,F,Gayaza,COVID-19,Monday,Mulago
+Indigo P. Dejesus,39,F,Gayaza,COVID-19,Monday,Kiruddu
+Indira A. Aguilar,33,M,Kikoni,Typhoid,Monday,Mulago
+Indira A. Aguilar,33,M,Kikoni,Typhoid,Monday,Kiruddu
+Irma,42,F,Kibuli,COVID-19,Sunday,Mulago
+Irma,42,F,Kibuli,COVID-19,Sunday,Muh
+Irma,42,F,Kibuli,COVID-19,Sunday,Kiruddu
+"Irwin, Dillon J.",31,F,Makindye,Malaria,Thursday,Mulago
+"Irwin, Dillon J.",31,F,Makindye,Malaria,Thursday,Muh
+"Irwin, Dillon J.",31,F,Makindye,Malaria,Thursday,Kiruddu
+Isaac,51,F,Katanga,COVID-19,Tuesday,Mulago
+Isaac,51,F,Katanga,COVID-19,Tuesday,Muh
+Isaac,51,F,Katanga,COVID-19,Tuesday,Kiruddu
+Isabella,41,M,Gayaza,Malaria,Tuesday,Mulago
+Isabella,41,M,Gayaza,Malaria,Tuesday,Muh
+Isabella,41,M,Gayaza,Malaria,Tuesday,Kiruddu
+Isaiah Harding,33,M,Kanyanya,COVID-19,Friday,Mulago
+Isaiah Harding,33,M,Kanyanya,COVID-19,Friday,Muh
+Isaiah Harding,33,M,Kanyanya,COVID-19,Friday,Kiruddu
+Jade Cunningham,58,M,Kasangati,Malaria,Monday,Muh
+Jade Cunningham,58,M,Kasangati,Malaria,Monday,Kiruddu
+Jamal Stephenson,55,M,Kisenyi,COVID-19,Thursday,Mulago
+Jamal Stephenson,55,M,Kisenyi,COVID-19,Thursday,Kiruddu
+Jared Green,43,F,Kawempe,Malaria,Wednesday,Mulago
+Jared Green,43,F,Kawempe,Malaria,Wednesday,Muh
+Jared Green,43,F,Kawempe,Malaria,Wednesday,Kiruddu
+Jeanette Q. Leach,43,F,Kibuli,COVID-19,Sunday,Mulago
+Jeanette Q. Leach,43,F,Kibuli,COVID-19,Sunday,Muh
+Jeanette Q. Leach,43,F,Kibuli,COVID-19,Sunday,Kiruddu
+Jelani,46,M,Katanga,COVID-19,Monday,Mulago
+Jelani,46,M,Katanga,COVID-19,Monday,Muh
+Jelani,46,M,Katanga,COVID-19,Monday,Kiruddu
+Jelani A. Wall,27,F,Katanga,Malaria,Wednesday,Mulago
+Jelani A. Wall,27,F,Katanga,Malaria,Wednesday,Muh
+Jelani A. Wall,27,F,Katanga,Malaria,Wednesday,Kiruddu
+Jelani F. Pace,40,M,Makindye,Malaria,Saturday,Mulago
+Jelani F. Pace,40,M,Makindye,Malaria,Saturday,Muh
+Jelani F. Pace,40,M,Makindye,Malaria,Saturday,Kiruddu
+"Jenkins, Hasad P.",47,M,Gayaza,Malaria,Friday,Mulago
+"Jenkins, Hasad P.",47,M,Gayaza,Malaria,Friday,Muh
+"Jenkins, Hasad P.",47,M,Gayaza,Malaria,Friday,Kiruddu
+Jennifer C. Williamson,54,F,Kanyanya,Typhoid,Tuesday,Mulago
+Jennifer C. Williamson,54,F,Kanyanya,Typhoid,Tuesday,Muh
+Jennifer C. Williamson,54,F,Kanyanya,Typhoid,Tuesday,Kiruddu
+"Jensen, Ebony Y.",52,M,Wandengeya,Typhoid,Monday,Mulago
+"Jensen, Ebony Y.",32,F,Nakifuma,COVID-19,Friday,Mulago
+"Jensen, Ebony Y.",32,F,Nakifuma,COVID-19,Friday,Muh
+"Jensen, Ebony Y.",32,F,Nakifuma,COVID-19,Friday,Kiruddu
+Jerome Rowe,50,M,Kalerwe,Typhoid,Monday,Kiruddu
+"Jimenez, Joel G.",51,F,Kawempe,COVID-19,Wednesday,Mulago
+"Jimenez, Joel G.",51,F,Kawempe,COVID-19,Thursday,Muh
+"Jimenez, Joel G.",51,F,Kawempe,COVID-19,Thursday,Kiruddu
+Jolene,56,M,Kawempe,COVID-19,Monday,Mulago
+Jolene,56,M,Kawempe,COVID-19,Monday,Muh
+Jolene,56,M,Kawempe,COVID-19,Monday,Kiruddu
+Jonah,46,M,Kisenyi,Malaria,Wednesday,Mulago
+Jonah,46,M,Kisenyi,Malaria,Wednesday,Muh
+Jonah,46,M,Kisenyi,Malaria,Wednesday,Kiruddu
+Jorden I. Whitley,38,F,Katwe,COVID-19,Tuesday,Mulago
+Jorden I. Whitley,38,F,Katwe,COVID-19,Tuesday,Muh
+Jorden I. Whitley,38,F,Katwe,COVID-19,Tuesday,Kiruddu
+Josiah,30,M,Katanga,Typhoid,Sunday,Mulago
+Josiah,30,M,Katanga,Typhoid,Sunday,Muh
+Josiah,30,M,Katanga,Typhoid,Sunday,Kiruddu
+Judith,43,F,Katanga,COVID-19,Monday,Mulago
+Judith,43,F,Katanga,COVID-19,Monday,Muh
+Judith,43,F,Katanga,COVID-19,Monday,Kiruddu
+Julian Alexander,37,F,Bwaise,COVID-19,Thursday,Mulago
+Julian Alexander,37,F,Bwaise,COVID-19,Thursday,Muh
+Julian Alexander,37,F,Bwaise,COVID-19,Thursday,Kiruddu
+Justine,53,M,Kawempe,Malaria,Tuesday,Mulago
+Justine,53,M,Kawempe,Malaria,Wednesday,Muh
+Justine,53,M,Kawempe,Malaria,Wednesday,Kiruddu
+Kadeem Larsen,44,F,Gayaza,COVID-19,Thursday,Mulago
+Kadeem Larsen,44,F,Gayaza,COVID-19,Thursday,Kiruddu
+Kai,48,F,Wampeewo,COVID-19,Monday,Mulago
+Kai,48,F,Wampeewo,COVID-19,Tuesday,Muh
+Kai,48,F,Wampeewo,COVID-19,Tuesday,Kiruddu
+Kaitlin,56,M,Kawempe,T.B,Monday,Mulago
+Kaitlin,56,M,Kawempe,T.B,Monday,Muh
+Kaitlin,56,M,Kawempe,T.B,Monday,Kiruddu
+Kane,40,F,Makindye,Typhoid,Sunday,Mulago
+Kane,40,F,Makindye,Typhoid,Sunday,Muh
+Kane,40,F,Makindye,Typhoid,Sunday,Kiruddu
+Kasimir Q. Cherry,33,F,Kasangati,COVID-19,Wednesday,Mulago
+Kasimir Q. Cherry,33,F,Kasangati,COVID-19,Wednesday,Muh
+Kasimir Q. Cherry,33,F,Kasangati,COVID-19,Wednesday,Kiruddu
+Keane Browning,51,F,Wampeewo,Typhoid,Monday,Mulago
+Keane Browning,51,F,Wampeewo,Typhoid,Tuesday,Muh
+Keane Browning,51,F,Wampeewo,Typhoid,Tuesday,Kiruddu
+Keegan Q. Ramirez,47,F,Makerere,COVID-19,Monday,Mulago
+Keegan Q. Ramirez,47,F,Makerere,COVID-19,Monday,Kiruddu
+Keiko O. Whitaker,52,F,Katanga,Malaria,Sunday,Mulago
+Keiko O. Whitaker,52,F,Katanga,Malaria,Sunday,Muh
+Keiko O. Whitaker,52,F,Katanga,Malaria,Sunday,Kiruddu
+Kenneth Pope,51,F,Makindye,Malaria,Tuesday,Mulago
+Kenneth Pope,51,F,Makindye,Malaria,Tuesday,Kiruddu
+Kermit Fuentes,53,F,Wampeewo,Typhoid,Friday,Mulago
+Kermit Fuentes,53,F,Wampeewo,Typhoid,Friday,Muh
+Kermit Fuentes,53,F,Wampeewo,Typhoid,Friday,Kiruddu
+Kieran G. Justice,49,M,Gayaza,Typhoid,Wednesday,Mulago
+Kieran G. Justice,49,M,Gayaza,Typhoid,Wednesday,Muh
+Kieran G. Justice,49,M,Gayaza,Typhoid,Wednesday,Kiruddu
+Kieran Gilliam,51,F,Kawempe,Malaria,Saturday,Mulago
+Kieran Gilliam,51,F,Kawempe,Malaria,Saturday,Muh
+Kieran Gilliam,51,F,Kawempe,Malaria,Saturday,Kiruddu
+"Kim, Claudia W.",59,F,Nakasero,T.B,Monday,Mulago
+"Kim, Claudia W.",44,F,Makindye,COVID-19,Friday,Mulago
+"Kim, Claudia W.",44,F,Makindye,COVID-19,Friday,Muh
+"Kim, Claudia W.",44,F,Makindye,COVID-19,Friday,Kiruddu
+Kirestin F. Yang,53,M,Kawempe,COVID-19,Wednesday,Mulago
+Kirestin F. Yang,53,M,Kawempe,COVID-19,Wednesday,Muh
+Kirestin F. Yang,53,M,Kawempe,COVID-19,Wednesday,Kiruddu
+Kitra Kerr,50,M,Kisenyi,Malaria,Wednesday,Mulago
+Kitra Kerr,50,M,Kisenyi,Malaria,Wednesday,Muh
+Kitra Kerr,50,M,Kisenyi,Malaria,Wednesday,Kiruddu
+"Knapp, Quamar P.",32,F,Arua,Malaria,Wednesday,Mulago
+"Knapp, Quamar P.",32,F,Arua,Malaria,Wednesday,Muh
+"Knapp, Quamar P.",32,F,Arua,Malaria,Wednesday,Kiruddu
+Kristen,44,M,Bwaise,Typhoid,Monday,Mulago
+Kristen,44,M,Bwaise,Typhoid,Monday,Muh
+Kristen,44,M,Bwaise,Typhoid,Monday,Kiruddu
+Kyle,53,F,Katwe,Malaria,Monday,Mulago
+Kyle,53,F,Katwe,Malaria,Tuesday,Muh
+Kyle,53,F,Katwe,Malaria,Tuesday,Kiruddu
+Kyle Evans,49,F,Kasangati,Malaria,Thursday,Mulago
+Kyle Evans,49,F,Kasangati,Malaria,Thursday,Muh
+Kyle Evans,49,F,Kasangati,Malaria,Thursday,Kiruddu
+Kyle R. Kaufman,53,M,Makindye,Malaria,Monday,Mulago
+Kyle R. Kaufman,53,M,Makindye,Malaria,Monday,Muh
+Kyle R. Kaufman,53,M,Makindye,Malaria,Monday,Kiruddu
+Kylee O. Warner,65,M,Wampeewo,Malaria,Monday,Mulago
+Kylee O. Warner,65,M,Wampeewo,Malaria,Tuesday,Muh
+Kylee O. Warner,65,M,Wampeewo,Malaria,Tuesday,Kiruddu
+Kyra,43,F,Katwe,Malaria,Saturday,Mulago
+Kyra,43,F,Katwe,Malaria,Saturday,Muh
+Kyra,43,F,Katwe,Malaria,Saturday,Kiruddu
+Lael W. Sheppard,36,M,Kisenyi,T.B,Monday,Mulago
+Lael W. Sheppard,36,M,Kisenyi,T.B,Monday,Kiruddu
+Lael Wright,46,M,Kawempe,COVID-19,Tuesday,Mulago
+Lael Wright,46,M,Kawempe,COVID-19,Tuesday,Muh
+Lael Wright,46,M,Kawempe,COVID-19,Tuesday,Kiruddu
+Lamar Hensley,35,F,Kanyanya,Malaria,Thursday,Mulago
+Lamar Hensley,35,F,Kanyanya,Malaria,Thursday,Muh
+Lamar Hensley,35,F,Kanyanya,Malaria,Thursday,Kiruddu
+Lamar V. Guthrie,57,F,Katwe,COVID-19,Sunday,Mulago
+Lamar V. Guthrie,57,F,Katwe,COVID-19,Sunday,Muh
+Lamar V. Guthrie,57,F,Katwe,COVID-19,Sunday,Kiruddu
+Lana S. Pace,47,M,Wandengeya,Typhoid,Monday,Mulago
+Lana S. Pace,47,M,Wandengeya,Typhoid,Tuesday,Muh
+Lana S. Pace,47,M,Wandengeya,Typhoid,Tuesday,Kiruddu
+"Langley, Skyler J.",44,M,Katanga,COVID-19,Thursday,Mulago
+"Langley, Skyler J.",44,M,Katanga,COVID-19,Thursday,Muh
+"Langley, Skyler J.",44,M,Katanga,COVID-19,Thursday,Kiruddu
+Lani,43,F,Kisenyi,COVID-19,Sunday,Mulago
+Lani,43,F,Kisenyi,COVID-19,Sunday,Muh
+Lani,43,F,Kisenyi,COVID-19,Sunday,Kiruddu
+Laurel,43,F,Kamwokya,COVID-19,Tuesday,Mulago
+Laurel,43,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+Laurel H. Snow,36,M,Wandengeya,Malaria,Monday,Mulago
+Laurel H. Snow,36,M,Wandengeya,Malaria,Monday,Kiruddu
+Lawrence Ryan,60,F,Kamwokya,COVID-19,Friday,Mulago
+Lawrence Ryan,60,F,Kamwokya,COVID-19,Friday,Muh
+Lawrence Ryan,60,F,Kamwokya,COVID-19,Friday,Kiruddu
+"Lawrence, Hope Z.",46,M,Gayaza,COVID-19,Thursday,Mulago
+"Lawrence, Hope Z.",46,M,Gayaza,COVID-19,Thursday,Muh
+"Lawrence, Hope Z.",46,M,Gayaza,COVID-19,Thursday,Kiruddu
+Lee Taylor,42,M,Kawempe,Malaria,Tuesday,Mulago
+Lee Taylor,42,M,Kawempe,Malaria,Tuesday,Muh
+Lee Taylor,42,M,Kawempe,Malaria,Tuesday,Kiruddu
+Leila F. Hubbard,45,M,Kisenyi,COVID-19,Tuesday,Mulago
+Leila F. Hubbard,45,M,Kisenyi,COVID-19,Wednesday,Muh
+Leila F. Hubbard,45,M,Kisenyi,COVID-19,Wednesday,Kiruddu
+Leilani Gross,56,F,Gayaza,COVID-19,Tuesday,Mulago
+Leilani Gross,56,F,Gayaza,COVID-19,Tuesday,Kiruddu
+Len B. Finley,51,M,Katanga,COVID-19,Monday,Mulago
+Len B. Finley,51,M,Katanga,COVID-19,Monday,Muh
+Len B. Finley,51,M,Katanga,COVID-19,Monday,Kiruddu
+Len Phillips,42,M,Gayaza,COVID-19,Wednesday,Mulago
+Len Phillips,42,M,Gayaza,COVID-19,Wednesday,Muh
+Len Phillips,42,M,Gayaza,COVID-19,Wednesday,Kiruddu
+Leroy,42,M,Kawempe,Malaria,Monday,Mulago
+Leroy,42,M,Kawempe,Malaria,Monday,Muh
+Leroy,42,M,Kawempe,Malaria,Monday,Kiruddu
+Lester J. Burch,41,F,Katanga,Typhoid,Wednesday,Mulago
+Lester J. Burch,41,F,Katanga,Typhoid,Wednesday,Muh
+Lester J. Burch,41,F,Katanga,Typhoid,Wednesday,Kiruddu
+Lev Kramer,43,M,Makerere,T.B,Wednesday,Mulago
+Lev Kramer,43,M,Makerere,T.B,Wednesday,Muh
+Lev Kramer,43,M,Makerere,T.B,Wednesday,Kiruddu
+"Levy, Irma P.",61,F,Gayaza,Malaria,Thursday,Mulago
+"Levy, Irma P.",61,F,Gayaza,Malaria,Thursday,Muh
+"Levy, Irma P.",61,F,Gayaza,Malaria,Thursday,Kiruddu
+"Levy, Wesley S.",51,M,Kibuli,Typhoid,Thursday,Mulago
+"Levy, Wesley S.",51,M,Kibuli,Typhoid,Thursday,Muh
+"Levy, Wesley S.",51,M,Kibuli,Typhoid,Thursday,Kiruddu
+"Lewis, Jackson U.",45,F,Bwaise,Typhoid,Monday,Mulago
+"Lewis, Jackson U.",57,M,Kalerwe,Typhoid,Friday,Mulago
+"Lewis, Jackson U.",57,M,Kalerwe,Typhoid,Friday,Muh
+"Lewis, Jackson U.",57,M,Kalerwe,Typhoid,Friday,Kiruddu
+Lillith H. Larsen,40,M,Makindye,Malaria,Tuesday,Mulago
+Lillith H. Larsen,40,M,Makindye,Malaria,Tuesday,Muh
+Lillith H. Larsen,40,M,Makindye,Malaria,Tuesday,Kiruddu
+Lionel Mcclure,30,M,Kawempe,Malaria,Thursday,Mulago
+Lionel Mcclure,30,M,Kawempe,Malaria,Thursday,Kiruddu
+"Little, Hayley R.",41,M,Kanyanya,COVID-19,Saturday,Mulago
+"Little, Hayley R.",41,M,Kanyanya,COVID-19,Saturday,Muh
+"Little, Hayley R.",41,M,Kanyanya,COVID-19,Saturday,Kiruddu
+"Livingston, Blaze Y.",60,F,Bwaise,T.B,Thursday,Mulago
+"Livingston, Blaze Y.",60,F,Bwaise,T.B,Thursday,Muh
+"Livingston, Blaze Y.",60,F,Bwaise,T.B,Thursday,Kiruddu
+"Livingston, Lucas K.",52,M,Kawempe,Malaria,Monday,Mulago
+"Livingston, Lucas K.",50,F,Kivulu,COVID-19,Friday,Mulago
+"Livingston, Lucas K.",50,F,Kivulu,COVID-19,Friday,Muh
+"Livingston, Lucas K.",50,F,Kivulu,COVID-19,Friday,Kiruddu
+Lucian Medina,43,F,Kalerwe,COVID-19,Thursday,Mulago
+Lucian Medina,43,F,Kalerwe,COVID-19,Thursday,Muh
+Lucian Medina,43,F,Kalerwe,COVID-19,Thursday,Kiruddu
+Lyle,52,F,Kiteezi,Malaria,Monday,Mulago
+Lyle,52,F,Kiteezi,Malaria,Monday,Muh
+Lyle,52,F,Kiteezi,Malaria,Monday,Kiruddu
+Lynn S. Avery,59,M,Kasangati,T.B,Monday,Mulago
+Lynn S. Avery,59,M,Kasangati,T.B,Monday,Kiruddu
+"Macdonald, Rahim B.",57,M,Makerere,T.B,Monday,Mulago
+"Macdonald, Rahim B.",32,M,Makindye,COVID-19,Friday,Mulago
+"Macdonald, Rahim B.",32,M,Makindye,COVID-19,Friday,Muh
+"Macdonald, Rahim B.",32,M,Makindye,COVID-19,Friday,Kiruddu
+MacKenzie O. Fowler,57,F,Kasangati,Malaria,Monday,Mulago
+MacKenzie O. Fowler,57,F,Kasangati,Malaria,Tuesday,Muh
+MacKenzie O. Fowler,57,F,Kasangati,Malaria,Tuesday,Kiruddu
+Madeson,40,M,Katwe,Typhoid,Monday,Mulago
+Madeson,40,M,Katwe,Typhoid,Monday,Muh
+Madeson,40,M,Katwe,Typhoid,Monday,Kiruddu
+Madeson R. Salinas,48,F,Kanyanya,T.B,Wednesday,Mulago
+Madeson R. Salinas,48,F,Kanyanya,T.B,Wednesday,Muh
+Madeson R. Salinas,48,F,Kanyanya,T.B,Wednesday,Kiruddu
+Magee Davidson,41,M,Gayaza,COVID-19,Tuesday,Mulago
+Magee Davidson,41,M,Gayaza,COVID-19,Tuesday,Kiruddu
+Malachi Henson,53,M,Wampeewo,T.B,Saturday,Mulago
+Malachi Henson,53,M,Wampeewo,T.B,Saturday,Muh
+Malachi Henson,53,M,Wampeewo,T.B,Saturday,Kiruddu
+Mannix Snow,49,F,Nakifuma,Typhoid,Thursday,Mulago
+Mannix Snow,49,F,Nakifuma,Typhoid,Thursday,Muh
+Mannix Snow,49,F,Nakifuma,Typhoid,Thursday,Kiruddu
+Mariam I. Montgomery,47,M,Kawempe,COVID-19,Monday,Mulago
+Mariam I. Montgomery,47,M,Kawempe,COVID-19,Monday,Kiruddu
+Mark V. Vaughn,46,M,Kawempe,COVID-19,Monday,Mulago
+Mark V. Vaughn,46,M,Kawempe,COVID-19,Tuesday,Muh
+Mark V. Vaughn,46,M,Kawempe,COVID-19,Tuesday,Kiruddu
+Marla,47,M,Katanga,Malaria,Wednesday,Mulago
+Marla,47,M,Katanga,Malaria,Wednesday,Muh
+Marla,47,M,Katanga,Malaria,Wednesday,Kiruddu
+Marny Obrien,47,F,Kikoni,COVID-19,Monday,Muh
+Marny Obrien,47,F,Kikoni,COVID-19,Monday,Kiruddu
+Marny Vargas,34,M,Kawempe,COVID-19,Tuesday,Mulago
+Marny Vargas,34,M,Kawempe,COVID-19,Tuesday,Muh
+Marny Vargas,34,M,Kawempe,COVID-19,Tuesday,Kiruddu
+Marshall Armstrong,39,F,Katanga,COVID-19,Saturday,Mulago
+Marshall Armstrong,39,F,Katanga,COVID-19,Saturday,Muh
+Marshall Armstrong,39,F,Katanga,COVID-19,Saturday,Kiruddu
+Martina Avila,42,F,Kawempe,Malaria,Monday,Muh
+Martina Avila,42,F,Kawempe,Malaria,Monday,Kiruddu
+Martina Fuentes,53,M,Nansana,Malaria,Wednesday,Mulago
+Martina Fuentes,53,M,Nansana,Malaria,Thursday,Muh
+Martina Fuentes,53,M,Nansana,Malaria,Thursday,Kiruddu
+Marvin Becker,56,F,Bwaise,Typhoid,Wednesday,Mulago
+Marvin Becker,56,F,Bwaise,Typhoid,Wednesday,Muh
+Marvin Becker,56,F,Bwaise,Typhoid,Wednesday,Kiruddu
+Marvin Deleon,53,M,Gayaza,COVID-19,Thursday,Mulago
+Marvin Deleon,53,M,Gayaza,COVID-19,Thursday,Muh
+Marvin Deleon,53,M,Gayaza,COVID-19,Thursday,Kiruddu
+Marvin Garner,34,F,Kasangati,T.B,Friday,Mulago
+Marvin Garner,34,F,Kasangati,T.B,Friday,Muh
+Marvin Garner,34,F,Kasangati,T.B,Friday,Kiruddu
+Matthew Colon,48,M,Kiteezi,Malaria,Wednesday,Mulago
+Matthew Colon,48,M,Kiteezi,Malaria,Wednesday,Muh
+Matthew Colon,48,M,Kiteezi,Malaria,Wednesday,Kiruddu
+"Mayer, Paki D.",33,F,Bwaise,COVID-19,Thursday,Mulago
+"Mayer, Paki D.",33,F,Bwaise,COVID-19,Thursday,Muh
+"Mayer, Paki D.",33,F,Bwaise,COVID-19,Thursday,Kiruddu
+"Mcclure, Avye L.",49,M,Kibuye,Typhoid,Thursday,Mulago
+"Mcclure, Avye L.",49,M,Kibuye,Typhoid,Thursday,Muh
+"Mcclure, Avye L.",49,M,Kibuye,Typhoid,Thursday,Kiruddu
+"Mcdaniel, Marcia Z.",62,M,Kawempe,Typhoid,Thursday,Mulago
+"Mcdaniel, Marcia Z.",62,M,Kawempe,Typhoid,Thursday,Muh
+"Mcdaniel, Marcia Z.",62,M,Kawempe,Typhoid,Thursday,Kiruddu
+"Mcdowell, Victoria J.",47,F,Kalerwe,Malaria,Thursday,Mulago
+"Mcdowell, Victoria J.",47,F,Kalerwe,Malaria,Thursday,Muh
+"Mcdowell, Victoria J.",47,F,Kalerwe,Malaria,Thursday,Kiruddu
+Mechelle W. Stanton,46,F,Arua,Malaria,Tuesday,Mulago
+Mechelle W. Stanton,46,F,Arua,Malaria,Wednesday,Muh
+Mechelle W. Stanton,46,F,Arua,Malaria,Wednesday,Kiruddu
+Melodie,62,M,Makerere,COVID-19,Saturday,Mulago
+Melodie,62,M,Makerere,COVID-19,Saturday,Muh
+Melodie,62,M,Makerere,COVID-19,Saturday,Kiruddu
+Merrill,50,M,Gayaza,Typhoid,Wednesday,Mulago
+Merrill,50,M,Gayaza,Typhoid,Wednesday,Muh
+Merrill,50,M,Gayaza,Typhoid,Wednesday,Kiruddu
+Merrill Bailey,47,F,Gayaza,COVID-19,Thursday,Mulago
+Merrill Bailey,47,F,Gayaza,COVID-19,Thursday,Muh
+Merrill Bailey,47,F,Gayaza,COVID-19,Thursday,Kiruddu
+Mia,51,M,Kamwokya,COVID-19,Tuesday,Mulago
+Mia,51,M,Kamwokya,COVID-19,Tuesday,Muh
+Mia,51,M,Kamwokya,COVID-19,Tuesday,Kiruddu
+Micah Wheeler,47,M,Katanga,COVID-19,Monday,Muh
+Micah Wheeler,47,M,Katanga,COVID-19,Monday,Kiruddu
+Michelle R. Burke,41,M,Kamwokya,Typhoid,Wednesday,Mulago
+Michelle R. Burke,41,M,Kamwokya,Typhoid,Wednesday,Muh
+Michelle R. Burke,41,M,Kamwokya,Typhoid,Wednesday,Kiruddu
+Michelle W. Ryan,48,F,Kawempe,Typhoid,Monday,Mulago
+Michelle W. Ryan,48,F,Kawempe,Typhoid,Tuesday,Muh
+Michelle W. Ryan,48,F,Kawempe,Typhoid,Tuesday,Kiruddu
+Miranda Berry,52,M,Katwe,COVID-19,Wednesday,Mulago
+Miranda Berry,52,M,Katwe,COVID-19,Wednesday,Muh
+Miranda Berry,52,M,Katwe,COVID-19,Wednesday,Kiruddu
+"Morales, Halla M.",53,F,Nansana,Malaria,Thursday,Mulago
+"Morales, Halla M.",53,F,Nansana,Malaria,Thursday,Muh
+"Morales, Halla M.",53,F,Nansana,Malaria,Thursday,Kiruddu
+Morgan William,46,F,Kamwokya,COVID-19,Tuesday,Mulago
+Morgan William,46,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+Moses Blackburn,51,F,Kalerwe,Malaria,Saturday,Mulago
+Moses Blackburn,51,F,Kalerwe,Malaria,Saturday,Muh
+Moses Blackburn,51,F,Kalerwe,Malaria,Saturday,Kiruddu
+"Munoz, Kennedy K.",42,M,Katanga,Typhoid,Saturday,Mulago
+"Munoz, Kennedy K.",42,M,Katanga,Typhoid,Saturday,Muh
+"Munoz, Kennedy K.",42,M,Katanga,Typhoid,Saturday,Kiruddu
+Naomi Rodriquez,43,M,Wampeewo,Malaria,Monday,Muh
+Naomi Rodriquez,43,M,Wampeewo,Malaria,Monday,Kiruddu
+Nasim Ryan,57,F,Gayaza,Typhoid,Saturday,Mulago
+Nasim Ryan,57,F,Gayaza,Typhoid,Saturday,Muh
+Nasim Ryan,57,F,Gayaza,Typhoid,Saturday,Kiruddu
+Nathan,43,M,Kanyanya,Malaria,Sunday,Mulago
+Nathan,43,M,Kanyanya,Malaria,Sunday,Muh
+Nathan,43,M,Kanyanya,Malaria,Sunday,Kiruddu
+Nathaniel P. Stephens,32,F,Katanga,Typhoid,Tuesday,Mulago
+Nathaniel P. Stephens,32,F,Katanga,Typhoid,Tuesday,Muh
+Nathaniel P. Stephens,32,F,Katanga,Typhoid,Tuesday,Kiruddu
+Nell,59,M,Makerere,T.B,Wednesday,Mulago
+Nell,59,M,Makerere,T.B,Wednesday,Muh
+Nell,59,M,Makerere,T.B,Wednesday,Kiruddu
+Nero Miranda,33,M,Arua,Typhoid,Saturday,Mulago
+Nero Miranda,33,M,Arua,Typhoid,Saturday,Muh
+Nero Miranda,33,M,Arua,Typhoid,Saturday,Kiruddu
+Nero Morgan,61,F,Katanga,COVID-19,Friday,Mulago
+Nero Morgan,61,F,Katanga,COVID-19,Friday,Muh
+Nero Morgan,61,F,Katanga,COVID-19,Friday,Kiruddu
+Neville,42,F,Makindye,Typhoid,Tuesday,Mulago
+Neville,42,F,Makindye,Typhoid,Wednesday,Muh
+Neville,42,F,Makindye,Typhoid,Wednesday,Kiruddu
+"Nieves, Bertha O.",42,F,Katanga,Malaria,Thursday,Mulago
+"Nieves, Bertha O.",42,F,Katanga,Malaria,Thursday,Muh
+"Nieves, Bertha O.",42,F,Katanga,Malaria,Thursday,Kiruddu
+Nissim Acosta,57,M,Katanga,COVID-19,Wednesday,Mulago
+Nissim Acosta,57,M,Katanga,COVID-19,Wednesday,Muh
+Nissim Acosta,57,M,Katanga,COVID-19,Wednesday,Kiruddu
+Nola,32,F,Wandengeya,COVID-19,Saturday,Mulago
+Nola,32,F,Wandengeya,COVID-19,Saturday,Muh
+Nola,32,F,Wandengeya,COVID-19,Saturday,Kiruddu
+Nola L. Sweeney,55,F,Katanga,Malaria,Wednesday,Mulago
+Nola L. Sweeney,55,F,Katanga,Malaria,Wednesday,Muh
+Nola L. Sweeney,55,F,Katanga,Malaria,Wednesday,Kiruddu
+Nola Wiggins,46,M,Kibuli,COVID-19,Monday,Muh
+Nola Wiggins,46,M,Kibuli,COVID-19,Monday,Kiruddu
+Nolan,55,F,Gayaza,T.B,Wednesday,Mulago
+Nolan,55,F,Gayaza,T.B,Wednesday,Muh
+Nolan,55,F,Gayaza,T.B,Wednesday,Kiruddu
+Nolan Conner,45,M,Makindye,T.B,Friday,Mulago
+Nolan Conner,45,M,Makindye,T.B,Friday,Muh
+Nolan Conner,45,M,Makindye,T.B,Friday,Kiruddu
+Nolan Nixon,40,F,Makerere,Typhoid,Thursday,Mulago
+Nolan Nixon,40,F,Makerere,Typhoid,Thursday,Muh
+Nolan Nixon,40,F,Makerere,Typhoid,Thursday,Kiruddu
+Nora X. Decker,52,F,Kamwokya,COVID-19,Sunday,Mulago
+Nora X. Decker,52,F,Kamwokya,COVID-19,Sunday,Muh
+Nora X. Decker,52,F,Kamwokya,COVID-19,Sunday,Kiruddu
+"Oconnor, Linus Q.",51,F,Kawempe,COVID-19,Wednesday,Mulago
+"Oconnor, Linus Q.",51,F,Kawempe,COVID-19,Wednesday,Muh
+"Oconnor, Linus Q.",51,F,Kawempe,COVID-19,Wednesday,Kiruddu
+Octavius C. Spencer,33,F,Katwe,COVID-19,Monday,Mulago
+Octavius C. Spencer,33,F,Katwe,COVID-19,Tuesday,Muh
+Octavius C. Spencer,33,F,Katwe,COVID-19,Tuesday,Kiruddu
+Odette Q. Sherman,53,M,Bwaise,COVID-19,Wednesday,Mulago
+Odette Q. Sherman,53,M,Bwaise,COVID-19,Wednesday,Muh
+Odette Q. Sherman,53,M,Bwaise,COVID-19,Wednesday,Kiruddu
+Oleg,57,F,Kamwokya,Typhoid,Saturday,Mulago
+Oleg,57,F,Kamwokya,Typhoid,Saturday,Muh
+Oleg,57,F,Kamwokya,Typhoid,Saturday,Kiruddu
+Oleg Gordon,46,M,Arua,COVID-19,Thursday,Mulago
+Oleg Gordon,46,M,Arua,COVID-19,Thursday,Kiruddu
+Olga Serrano,43,F,Kasangati,Malaria,Wednesday,Mulago
+Olga Serrano,43,F,Kasangati,Malaria,Wednesday,Muh
+Olga Serrano,43,F,Kasangati,Malaria,Wednesday,Kiruddu
+Olivia,41,F,Wandengeya,COVID-19,Monday,Mulago
+Olivia,41,F,Wandengeya,COVID-19,Monday,Muh
+Olivia,41,F,Wandengeya,COVID-19,Monday,Kiruddu
+"Olson, Riley O.",47,M,Kawempe,COVID-19,Thursday,Mulago
+"Olson, Riley O.",47,M,Kawempe,COVID-19,Thursday,Muh
+"Olson, Riley O.",47,M,Kawempe,COVID-19,Thursday,Kiruddu
+"Oneill, Tiger A.",51,F,Arua,COVID-19,Thursday,Mulago
+"Oneill, Tiger A.",51,F,Arua,COVID-19,Thursday,Muh
+"Oneill, Tiger A.",51,F,Arua,COVID-19,Thursday,Kiruddu
+Ora,40,M,Kivulu,COVID-19,Monday,Mulago
+Ora,40,M,Kivulu,COVID-19,Monday,Muh
+Ora,40,M,Kivulu,COVID-19,Monday,Kiruddu
+Oren Rosario,53,M,Katanga,Malaria,Thursday,Mulago
+Oren Rosario,53,M,Katanga,Malaria,Thursday,Muh
+Oren Rosario,53,M,Katanga,Malaria,Thursday,Kiruddu
+Orli Casey,50,M,Katwe,COVID-19,Monday,Muh
+Orli Casey,50,M,Katwe,COVID-19,Monday,Kiruddu
+Orson Hyde,37,M,Kawempe,Typhoid,Friday,Mulago
+Orson Hyde,37,M,Kawempe,Typhoid,Friday,Muh
+Orson Hyde,37,M,Kawempe,Typhoid,Friday,Kiruddu
+Orson Kirby,53,M,Kivulu,COVID-19,Wednesday,Mulago
+Orson Kirby,53,M,Kivulu,COVID-19,Wednesday,Muh
+Orson Kirby,53,M,Kivulu,COVID-19,Wednesday,Kiruddu
+"Ortiz, Drew P.",52,F,Makindye,T.B,Thursday,Mulago
+"Ortiz, Drew P.",52,F,Makindye,T.B,Thursday,Muh
+"Ortiz, Drew P.",52,F,Makindye,T.B,Thursday,Kiruddu
+Otto Oneill,36,M,Kikoni,Malaria,Wednesday,Mulago
+Otto Oneill,36,M,Kikoni,Malaria,Thursday,Muh
+Otto Oneill,36,M,Kikoni,Malaria,Thursday,Kiruddu
+Otto Thomas,51,F,Bwaise,COVID-19,Saturday,Mulago
+Otto Thomas,51,F,Bwaise,COVID-19,Saturday,Muh
+Otto Thomas,51,F,Bwaise,COVID-19,Saturday,Kiruddu
+Owen Jacobson,45,M,Kikoni,Malaria,Wednesday,Mulago
+Owen Jacobson,45,M,Kikoni,Malaria,Wednesday,Muh
+Owen Jacobson,45,M,Kikoni,Malaria,Wednesday,Kiruddu
+Palmer Cohen,34,M,Kanyanya,COVID-19,Saturday,Mulago
+Palmer Cohen,34,M,Kanyanya,COVID-19,Saturday,Muh
+Palmer Cohen,34,M,Kanyanya,COVID-19,Saturday,Kiruddu
+Pamela M. Cantu,47,F,Nansana,Malaria,Monday,Mulago
+Pamela M. Cantu,47,F,Nansana,Malaria,Monday,Kiruddu
+"Park, Quincy A.",46,M,Kibuli,COVID-19,Monday,Mulago
+"Park, Quincy A.",57,F,Bwaise,COVID-19,Friday,Mulago
+"Park, Quincy A.",57,F,Bwaise,COVID-19,Friday,Muh
+"Park, Quincy A.",57,F,Bwaise,COVID-19,Friday,Kiruddu
+Pascale I. Key,49,F,Makerere,Malaria,Wednesday,Mulago
+Pascale I. Key,49,F,Makerere,Malaria,Wednesday,Muh
+Pascale I. Key,49,F,Makerere,Malaria,Wednesday,Kiruddu
+"Patrick, Merritt L.",55,F,Kanyanya,Malaria,Thursday,Mulago
+"Patrick, Merritt L.",55,F,Kanyanya,Malaria,Thursday,Muh
+"Patrick, Merritt L.",55,F,Kanyanya,Malaria,Thursday,Kiruddu
+Paula,45,M,Kisenyi,Malaria,Monday,Mulago
+Paula,45,M,Kisenyi,Malaria,Tuesday,Muh
+Paula,45,M,Kisenyi,Malaria,Tuesday,Kiruddu
+Pearl,54,M,Wandengeya,Typhoid,Wednesday,Mulago
+Pearl,54,M,Wandengeya,Typhoid,Wednesday,Muh
+Pearl,54,M,Wandengeya,Typhoid,Wednesday,Kiruddu
+Penelope,37,F,Gayaza,Typhoid,Sunday,Mulago
+Penelope,37,F,Gayaza,Typhoid,Sunday,Muh
+Penelope,37,F,Gayaza,Typhoid,Sunday,Kiruddu
+Peter Maynard,44,M,Kibuli,COVID-19,Friday,Mulago
+Peter Maynard,44,M,Kibuli,COVID-19,Friday,Muh
+Peter Maynard,44,M,Kibuli,COVID-19,Friday,Kiruddu
+Peter Stout,39,F,Bwaise,COVID-19,Wednesday,Mulago
+Peter Stout,39,F,Bwaise,COVID-19,Wednesday,Muh
+Peter Stout,39,F,Bwaise,COVID-19,Wednesday,Kiruddu
+Phelan Montoya,51,F,Kibuli,Malaria,Saturday,Mulago
+Phelan Montoya,51,F,Kibuli,Malaria,Saturday,Muh
+Phelan Montoya,51,F,Kibuli,Malaria,Saturday,Kiruddu
+Philip Barnes,40,F,Arua,Typhoid,Friday,Mulago
+Philip Barnes,40,F,Arua,Typhoid,Friday,Muh
+Philip Barnes,40,F,Arua,Typhoid,Friday,Kiruddu
+Piper,40,F,Kasangati,Typhoid,Monday,Mulago
+Piper,40,F,Kasangati,Typhoid,Tuesday,Muh
+Piper,40,F,Kasangati,Typhoid,Tuesday,Kiruddu
+Piper S. Houston,41,F,Kamwokya,COVID-19,Tuesday,Mulago
+Piper S. Houston,41,F,Kamwokya,COVID-19,Tuesday,Muh
+Piper S. Houston,41,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+"Powers, Naomi B.",39,M,Kasangati,Malaria,Thursday,Mulago
+"Powers, Naomi B.",39,M,Kasangati,Malaria,Thursday,Muh
+"Powers, Naomi B.",39,M,Kasangati,Malaria,Thursday,Kiruddu
+Quail D. Horne,52,F,Kibuye,Malaria,Sunday,Mulago
+Quail D. Horne,52,F,Kibuye,Malaria,Sunday,Muh
+Quail D. Horne,52,F,Kibuye,Malaria,Sunday,Kiruddu
+Quamar Cummings,57,M,Kibuli,Typhoid,Thursday,Mulago
+Quamar Cummings,57,M,Kibuli,Typhoid,Thursday,Muh
+Quamar Cummings,57,M,Kibuli,Typhoid,Thursday,Kiruddu
+Quentin Randall,47,F,Bwaise,Typhoid,Friday,Mulago
+Quentin Randall,47,F,Bwaise,Typhoid,Friday,Muh
+Quentin Randall,47,F,Bwaise,Typhoid,Friday,Kiruddu
+Quin Smith,44,F,Nakifuma,Malaria,Monday,Kiruddu
+Quincy Bell,55,F,Kanyanya,Typhoid,Tuesday,Mulago
+Quincy Bell,55,F,Kanyanya,Typhoid,Tuesday,Muh
+Quincy Bell,55,F,Kanyanya,Typhoid,Tuesday,Kiruddu
+Quincy Q. Ayers,42,F,Kibuye,COVID-19,Tuesday,Mulago
+Quincy Q. Ayers,42,F,Kibuye,COVID-19,Tuesday,Muh
+Quincy Q. Ayers,42,F,Kibuye,COVID-19,Tuesday,Kiruddu
+Quinlan Harris,56,M,Nakifuma,Typhoid,Wednesday,Mulago
+Quinlan Harris,56,M,Nakifuma,Typhoid,Wednesday,Muh
+Quinlan Harris,56,M,Nakifuma,Typhoid,Wednesday,Kiruddu
+Quinlan S. Cantu,45,M,Gayaza,COVID-19,Monday,Mulago
+Quinlan S. Cantu,45,M,Gayaza,COVID-19,Monday,Kiruddu
+Quinlan U. Sears,41,M,Kikoni,T.B,Wednesday,Mulago
+Quinlan U. Sears,41,M,Kikoni,T.B,Wednesday,Muh
+Quinlan U. Sears,41,M,Kikoni,T.B,Wednesday,Kiruddu
+Quon Carroll,40,F,Kisenyi,T.B,Tuesday,Mulago
+Quon Carroll,40,F,Kisenyi,T.B,Tuesday,Kiruddu
+Quon Hull,46,F,Kasangati,T.B,Monday,Mulago
+Quon Hull,46,F,Kasangati,T.B,Tuesday,Muh
+Quon Hull,46,F,Kasangati,T.B,Tuesday,Kiruddu
+Rachel Ashley,42,F,Bwaise,COVID-19,Monday,Mulago
+Rachel Ashley,42,F,Bwaise,COVID-19,Tuesday,Muh
+Rachel Ashley,42,F,Bwaise,COVID-19,Tuesday,Kiruddu
+Rachel E. Suarez,59,M,Makindye,COVID-19,Wednesday,Mulago
+Rachel E. Suarez,59,M,Makindye,COVID-19,Wednesday,Muh
+Rachel E. Suarez,59,M,Makindye,COVID-19,Wednesday,Kiruddu
+Rachel H. Ballard,56,M,Nansana,T.B,Tuesday,Mulago
+Rachel H. Ballard,56,M,Nansana,T.B,Wednesday,Muh
+Rachel H. Ballard,56,M,Nansana,T.B,Wednesday,Kiruddu
+Rae C. Hodge,55,F,Kawempe,Malaria,Tuesday,Mulago
+Rae C. Hodge,55,F,Kawempe,Malaria,Tuesday,Muh
+Rae C. Hodge,55,F,Kawempe,Malaria,Tuesday,Kiruddu
+Rafael,44,F,Kasangati,Malaria,Monday,Mulago
+Rafael,44,F,Kasangati,Malaria,Monday,Muh
+Rafael,44,F,Kasangati,Malaria,Monday,Kiruddu
+Rafael Peterson,52,M,Katanga,Malaria,Tuesday,Mulago
+Rafael Peterson,52,M,Katanga,Malaria,Tuesday,Kiruddu
+Ralph Rich,37,F,Kawempe,Typhoid,Thursday,Mulago
+Ralph Rich,37,F,Kawempe,Typhoid,Thursday,Kiruddu
+Rashad Harper,32,F,Kisenyi,COVID-19,Friday,Mulago
+Rashad Harper,32,F,Kisenyi,COVID-19,Friday,Muh
+Rashad Harper,32,F,Kisenyi,COVID-19,Friday,Kiruddu
+Raya Shields,53,F,Wampeewo,COVID-19,Tuesday,Mulago
+Raya Shields,53,F,Wampeewo,COVID-19,Wednesday,Muh
+Raya Shields,53,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+Reed,38,M,Arua,T.B,Sunday,Mulago
+Reed,38,M,Arua,T.B,Sunday,Muh
+Reed,38,M,Arua,T.B,Sunday,Kiruddu
+Reed Roman,40,F,Kamwokya,COVID-19,Wednesday,Mulago
+Reed Roman,40,F,Kamwokya,COVID-19,Wednesday,Muh
+Reed Roman,40,F,Kamwokya,COVID-19,Wednesday,Kiruddu
+Reese Vance,41,M,Arua,Malaria,Tuesday,Mulago
+Reese Vance,41,M,Arua,Malaria,Tuesday,Kiruddu
+"Reese, Sylvia H.",43,M,Katwe,Typhoid,Thursday,Mulago
+"Reese, Sylvia H.",43,M,Katwe,Typhoid,Thursday,Muh
+"Reese, Sylvia H.",43,M,Katwe,Typhoid,Thursday,Kiruddu
+Reuben Holden,50,M,Kanyanya,Malaria,Friday,Mulago
+Reuben Holden,50,M,Kanyanya,Malaria,Friday,Muh
+Reuben Holden,50,M,Kanyanya,Malaria,Friday,Kiruddu
+Rhonda,41,F,Gayaza,COVID-19,Monday,Mulago
+Rhonda,41,F,Gayaza,COVID-19,Monday,Muh
+Rhonda,41,F,Gayaza,COVID-19,Monday,Kiruddu
+Rhonda Chavez,43,M,Bwaise,Malaria,Monday,Kiruddu
+Rigel,52,F,Nansana,COVID-19,Wednesday,Mulago
+Rigel,52,F,Nansana,COVID-19,Wednesday,Muh
+Rigel,52,F,Nansana,COVID-19,Wednesday,Kiruddu
+Rigel Craft,51,F,Nansana,Malaria,Thursday,Mulago
+Rigel Craft,51,F,Nansana,Malaria,Thursday,Muh
+Rigel Craft,51,F,Nansana,Malaria,Thursday,Kiruddu
+"Rivers, Sonya A.",57,M,Wandengeya,COVID-19,Wednesday,Mulago
+"Rivers, Sonya A.",57,M,Wandengeya,COVID-19,Thursday,Muh
+"Rivers, Sonya A.",57,M,Wandengeya,COVID-19,Thursday,Kiruddu
+Roanna Knox,57,F,Kanyanya,Malaria,Tuesday,Mulago
+Roanna Knox,57,F,Kanyanya,Malaria,Tuesday,Muh
+Roanna Knox,57,F,Kanyanya,Malaria,Tuesday,Kiruddu
+"Rodriguez, Basia D.",42,F,Kawempe,Malaria,Monday,Mulago
+"Rodriguez, Basia D.",58,F,Kamwokya,Typhoid,Friday,Mulago
+"Rodriguez, Basia D.",58,F,Kamwokya,Typhoid,Friday,Muh
+"Rodriguez, Basia D.",58,F,Kamwokya,Typhoid,Friday,Kiruddu
+Rogan,54,M,Katanga,Malaria,Monday,Mulago
+Rogan,54,M,Katanga,Malaria,Tuesday,Muh
+Rogan,54,M,Katanga,Malaria,Tuesday,Kiruddu
+Rooney R. Padilla,45,F,Kalerwe,Typhoid,Tuesday,Mulago
+Rooney R. Padilla,45,F,Kalerwe,Typhoid,Tuesday,Muh
+Rooney R. Padilla,45,F,Kalerwe,Typhoid,Tuesday,Kiruddu
+"Rosario, Elijah N.",43,M,Wampeewo,Malaria,Monday,Mulago
+"Rosario, Elijah N.",51,M,Katanga,Malaria,Friday,Mulago
+"Rosario, Elijah N.",51,M,Katanga,Malaria,Friday,Muh
+"Rosario, Elijah N.",51,M,Katanga,Malaria,Friday,Kiruddu
+"Ross, Kermit D.",35,M,Kawempe,Malaria,Saturday,Mulago
+"Ross, Kermit D.",35,M,Kawempe,Malaria,Saturday,Kiruddu
+Rowan Kidd,42,M,Gayaza,Malaria,Tuesday,Mulago
+Rowan Kidd,42,M,Gayaza,Malaria,Wednesday,Muh
+Rowan Kidd,42,M,Gayaza,Malaria,Wednesday,Kiruddu
+"Ruiz, Rafael L.",57,M,Wandengeya,Typhoid,Monday,Mulago
+"Ruiz, Rafael L.",32,M,Kawempe,COVID-19,Friday,Mulago
+"Ruiz, Rafael L.",32,M,Kawempe,COVID-19,Friday,Muh
+"Ruiz, Rafael L.",32,M,Kawempe,COVID-19,Friday,Kiruddu
+"Rush, Jarrod T.",52,M,Katwe,COVID-19,Wednesday,Mulago
+"Rush, Jarrod T.",52,M,Katwe,COVID-19,Thursday,Muh
+"Rush, Jarrod T.",52,M,Katwe,COVID-19,Thursday,Kiruddu
+"Russo, Fleur N.",44,F,Katanga,Malaria,Thursday,Mulago
+"Russo, Fleur N.",44,F,Katanga,Malaria,Thursday,Muh
+"Russo, Fleur N.",44,F,Katanga,Malaria,Thursday,Kiruddu
+Ryder Shaffer,38,F,Kamwokya,COVID-19,Tuesday,Mulago
+Ryder Shaffer,38,F,Kamwokya,COVID-19,Tuesday,Muh
+Ryder Shaffer,38,F,Kamwokya,COVID-19,Tuesday,Kiruddu
+Samson N. Wagner,55,M,Kamwokya,T.B,Monday,Mulago
+Samson N. Wagner,55,M,Kamwokya,T.B,Monday,Muh
+Samson N. Wagner,55,M,Kamwokya,T.B,Monday,Kiruddu
+"Sanders, Selma F.",53,F,Kawempe,Typhoid,Monday,Mulago
+"Sanders, Selma F.",41,M,Nakasero,COVID-19,Friday,Mulago
+"Sanders, Selma F.",41,M,Nakasero,COVID-19,Friday,Muh
+"Sanders, Selma F.",41,M,Nakasero,COVID-19,Friday,Kiruddu
+Sandra J. Huber,57,F,Katanga,COVID-19,Monday,Mulago
+Sandra J. Huber,57,F,Katanga,COVID-19,Tuesday,Muh
+Sandra J. Huber,57,F,Katanga,COVID-19,Tuesday,Kiruddu
+Sawyer Carney,53,F,Nansana,COVID-19,Tuesday,Mulago
+Sawyer Carney,53,F,Nansana,COVID-19,Wednesday,Muh
+Sawyer Carney,53,F,Nansana,COVID-19,Wednesday,Kiruddu
+"Schultz, Lee I.",47,M,Makindye,COVID-19,Thursday,Mulago
+"Schultz, Lee I.",47,M,Makindye,COVID-19,Thursday,Muh
+"Schultz, Lee I.",47,M,Makindye,COVID-19,Thursday,Kiruddu
+Sebastian Marks,56,F,Wandengeya,Malaria,Friday,Mulago
+Sebastian Marks,56,F,Wandengeya,Malaria,Friday,Muh
+Sebastian Marks,56,F,Wandengeya,Malaria,Friday,Kiruddu
+September Puckett,37,M,Kibuli,COVID-19,Wednesday,Mulago
+September Puckett,37,M,Kibuli,COVID-19,Wednesday,Muh
+September Puckett,37,M,Kibuli,COVID-19,Wednesday,Kiruddu
+Serena,52,M,Kisenyi,Typhoid,Tuesday,Mulago
+Serena,52,M,Kisenyi,Typhoid,Tuesday,Muh
+Serena,52,M,Kisenyi,Typhoid,Tuesday,Kiruddu
+Serena B. Moody,57,M,Makindye,T.B,Monday,Mulago
+Serena B. Moody,57,M,Makindye,T.B,Tuesday,Muh
+Serena B. Moody,57,M,Makindye,T.B,Tuesday,Kiruddu
+Seth,49,F,Katanga,COVID-19,Saturday,Mulago
+Seth,48,M,Nansana,COVID-19,Monday,Mulago
+Seth,49,F,Katanga,COVID-19,Saturday,Muh
+Seth,48,M,Nansana,COVID-19,Tuesday,Muh
+Seth,49,F,Katanga,COVID-19,Saturday,Kiruddu
+Seth,48,M,Nansana,COVID-19,Tuesday,Kiruddu
+Seth Massey,51,M,Kasangati,COVID-19,Saturday,Mulago
+Seth Massey,51,M,Kasangati,COVID-19,Saturday,Muh
+Seth Massey,51,M,Kasangati,COVID-19,Saturday,Kiruddu
+"Sexton, Shaeleigh H.",35,M,Kibuli,COVID-19,Thursday,Mulago
+"Sexton, Shaeleigh H.",35,M,Kibuli,COVID-19,Thursday,Muh
+"Sexton, Shaeleigh H.",35,M,Kibuli,COVID-19,Thursday,Kiruddu
+Shad K. Hancock,38,M,Katanga,COVID-19,Monday,Mulago
+Shad K. Hancock,38,M,Katanga,COVID-19,Monday,Kiruddu
+Shaeleigh M. Mckenzie,46,M,Bwaise,T.B,Tuesday,Mulago
+Shaeleigh M. Mckenzie,46,M,Bwaise,T.B,Tuesday,Muh
+Shaeleigh M. Mckenzie,46,M,Bwaise,T.B,Tuesday,Kiruddu
+Sharon Sharpe,55,F,Kivulu,COVID-19,Monday,Kiruddu
+"Shaw, Rooney Q.",48,F,Kamwokya,T.B,Thursday,Mulago
+"Shaw, Rooney Q.",48,F,Kamwokya,T.B,Thursday,Muh
+"Shaw, Rooney Q.",48,F,Kamwokya,T.B,Thursday,Kiruddu
+"Sims, Tashya J.",63,M,Kisenyi,COVID-19,Thursday,Mulago
+"Sims, Tashya J.",63,M,Kisenyi,COVID-19,Thursday,Muh
+"Sims, Tashya J.",63,M,Kisenyi,COVID-19,Thursday,Kiruddu
+Sloane Mann,52,M,Wandengeya,Typhoid,Monday,Muh
+Sloane Mann,52,M,Wandengeya,Typhoid,Monday,Kiruddu
+"Smith, Nola H.",48,M,Katwe,Malaria,Monday,Mulago
+"Smith, Nola H.",47,M,Kiteezi,Malaria,Friday,Mulago
+"Smith, Nola H.",47,M,Kiteezi,Malaria,Friday,Muh
+"Smith, Nola H.",47,M,Kiteezi,Malaria,Friday,Kiruddu
+"Solis, Melissa T.",28,F,Makindye,Typhoid,Monday,Mulago
+"Solis, Melissa T.",44,F,Kawempe,COVID-19,Friday,Mulago
+"Solis, Melissa T.",44,F,Kawempe,COVID-19,Friday,Muh
+"Solis, Melissa T.",44,F,Kawempe,COVID-19,Friday,Kiruddu
+Solomon Atkinson,43,F,Kawempe,Malaria,Thursday,Mulago
+Solomon Atkinson,43,F,Kawempe,Malaria,Thursday,Muh
+Solomon Atkinson,43,F,Kawempe,Malaria,Thursday,Kiruddu
+Solomon P. Randolph,54,F,Wampeewo,COVID-19,Wednesday,Mulago
+Solomon P. Randolph,54,F,Wampeewo,COVID-19,Wednesday,Muh
+Solomon P. Randolph,54,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+Stacy,55,F,Kawempe,Malaria,Sunday,Mulago
+Stacy,55,F,Kawempe,Malaria,Sunday,Muh
+Stacy,55,F,Kawempe,Malaria,Sunday,Kiruddu
+"Stafford, Berk Y.",53,M,Kiteezi,T.B,Monday,Mulago
+"Stafford, Berk Y.",43,F,Makerere,COVID-19,Friday,Mulago
+"Stafford, Berk Y.",43,F,Makerere,COVID-19,Friday,Muh
+"Stafford, Berk Y.",43,F,Makerere,COVID-19,Friday,Kiruddu
+Stephen Lindsey,48,M,Katwe,Malaria,Monday,Muh
+Stephen Lindsey,48,M,Katwe,Malaria,Monday,Kiruddu
+"Stephens, Tanner E.",48,F,Kikoni,COVID-19,Wednesday,Mulago
+"Stephens, Tanner E.",48,F,Kikoni,COVID-19,Thursday,Muh
+"Stephens, Tanner E.",48,F,Kikoni,COVID-19,Thursday,Kiruddu
+Stone,40,M,Kamwokya,COVID-19,Sunday,Mulago
+Stone,40,M,Kamwokya,COVID-19,Sunday,Muh
+Stone,40,M,Kamwokya,COVID-19,Sunday,Kiruddu
+Stone Hunt,63,F,Nansana,Malaria,Saturday,Mulago
+Stone Hunt,63,F,Nansana,Malaria,Saturday,Muh
+Stone Hunt,63,F,Nansana,Malaria,Saturday,Kiruddu
+Stone Koch,43,M,Kibuye,COVID-19,Thursday,Mulago
+Stone Koch,43,M,Kibuye,COVID-19,Thursday,Muh
+Stone Koch,43,M,Kibuye,COVID-19,Thursday,Kiruddu
+Stuart Reed,50,M,Arua,Malaria,Friday,Mulago
+Stuart Reed,50,M,Arua,Malaria,Friday,Muh
+Stuart Reed,50,M,Arua,Malaria,Friday,Kiruddu
+"Sutton, Michelle D.",50,F,Kibuli,Malaria,Friday,Mulago
+"Sutton, Michelle D.",50,F,Kibuli,Malaria,Friday,Muh
+"Sutton, Michelle D.",50,F,Kibuli,Malaria,Friday,Kiruddu
+Tamara Guy,61,M,Katanga,T.B,Tuesday,Mulago
+Tamara Guy,61,M,Katanga,T.B,Tuesday,Muh
+Tamara Guy,61,M,Katanga,T.B,Tuesday,Kiruddu
+Tamekah,46,M,Gayaza,Malaria,Monday,Mulago
+Tamekah,46,M,Gayaza,Malaria,Tuesday,Muh
+Tamekah,46,M,Gayaza,Malaria,Tuesday,Kiruddu
+Tanek Koch,40,F,Gayaza,COVID-19,Saturday,Mulago
+Tanek Koch,40,F,Gayaza,COVID-19,Saturday,Muh
+Tanek Koch,40,F,Gayaza,COVID-19,Saturday,Kiruddu
+Tanisha H. Foster,50,F,Gayaza,COVID-19,Tuesday,Mulago
+Tanisha H. Foster,50,F,Gayaza,COVID-19,Wednesday,Muh
+Tanisha H. Foster,50,F,Gayaza,COVID-19,Wednesday,Kiruddu
+Tanner Johnson,46,M,Katwe,Malaria,Thursday,Mulago
+Tanner Johnson,46,M,Katwe,Malaria,Thursday,Muh
+Tanner Johnson,46,M,Katwe,Malaria,Thursday,Kiruddu
+Tanner Ward,42,F,Katanga,COVID-19,Thursday,Mulago
+Tanner Ward,42,F,Katanga,COVID-19,Thursday,Kiruddu
+Tate C. Foster,70,M,Gayaza,Malaria,Monday,Mulago
+Tate C. Foster,70,M,Gayaza,Malaria,Monday,Muh
+Tate C. Foster,70,M,Gayaza,Malaria,Monday,Kiruddu
+Tate Molina,45,F,Kikoni,Malaria,Thursday,Mulago
+Tate Molina,45,F,Kikoni,Malaria,Thursday,Muh
+Tate Molina,45,F,Kikoni,Malaria,Thursday,Kiruddu
+Tatum Moon,48,F,Makindye,COVID-19,Monday,Kiruddu
+Tatyana,25,F,Arua,COVID-19,Monday,Mulago
+Tatyana,25,F,Arua,COVID-19,Tuesday,Muh
+Tatyana,25,F,Arua,COVID-19,Tuesday,Kiruddu
+Taylor A. Patel,38,M,Nakifuma,Malaria,Tuesday,Mulago
+Taylor A. Patel,38,M,Nakifuma,Malaria,Tuesday,Muh
+Taylor A. Patel,38,M,Nakifuma,Malaria,Tuesday,Kiruddu
+Teegan Barr,40,M,Katanga,COVID-19,Wednesday,Mulago
+Teegan Barr,40,M,Katanga,COVID-19,Wednesday,Muh
+Teegan Barr,40,M,Katanga,COVID-19,Wednesday,Kiruddu
+"Terry, Mollie K.",45,M,Arua,Malaria,Thursday,Mulago
+"Terry, Mollie K.",45,M,Arua,Malaria,Thursday,Muh
+"Terry, Mollie K.",45,M,Arua,Malaria,Thursday,Kiruddu
+Thomas Williams,53,M,Kibuye,COVID-19,Monday,Kiruddu
+"Thompson, Alvin R.",36,F,Wandengeya,Malaria,Thursday,Mulago
+"Thompson, Alvin R.",36,F,Wandengeya,Malaria,Thursday,Muh
+"Thompson, Alvin R.",36,F,Wandengeya,Malaria,Thursday,Kiruddu
+Tiger I. Melton,44,M,Kivulu,COVID-19,Saturday,Mulago
+Tiger I. Melton,44,M,Kivulu,COVID-19,Saturday,Muh
+Tiger I. Melton,44,M,Kivulu,COVID-19,Saturday,Kiruddu
+Timothy J. Terrell,48,F,Katanga,Malaria,Monday,Mulago
+Timothy J. Terrell,48,F,Katanga,Malaria,Monday,Muh
+Timothy J. Terrell,48,F,Katanga,Malaria,Monday,Kiruddu
+Tobias L. Sullivan,43,M,Kivulu,T.B,Tuesday,Mulago
+Tobias L. Sullivan,43,M,Kivulu,T.B,Tuesday,Muh
+Tobias L. Sullivan,43,M,Kivulu,T.B,Tuesday,Kiruddu
+Todd,44,F,Kanyanya,Malaria,Tuesday,Mulago
+Todd,44,F,Kanyanya,Malaria,Tuesday,Kiruddu
+Todd Bass,48,F,Kiteezi,Malaria,Thursday,Mulago
+Todd Bass,48,F,Kiteezi,Malaria,Thursday,Muh
+Todd Bass,48,F,Kiteezi,Malaria,Thursday,Kiruddu
+Todd Maldonado,58,F,Gayaza,Typhoid,Thursday,Mulago
+Todd Maldonado,58,F,Gayaza,Typhoid,Thursday,Kiruddu
+Travis Burks,53,M,Katwe,COVID-19,Wednesday,Mulago
+Travis Burks,53,M,Katwe,COVID-19,Thursday,Muh
+Travis Burks,53,M,Katwe,COVID-19,Thursday,Kiruddu
+Trevor,33,F,Kibuye,Malaria,Monday,Mulago
+Trevor,33,F,Kibuye,Malaria,Monday,Muh
+Trevor,33,F,Kibuye,Malaria,Monday,Kiruddu
+Trevor Faulkner,40,F,Katwe,COVID-19,Friday,Mulago
+Trevor Faulkner,40,F,Katwe,COVID-19,Friday,Muh
+Trevor Faulkner,40,F,Katwe,COVID-19,Friday,Kiruddu
+Ulric Lynn,28,F,Makindye,Typhoid,Monday,Muh
+Ulric Lynn,28,F,Makindye,Typhoid,Monday,Kiruddu
+Ulric Robles,48,M,Wandengeya,COVID-19,Saturday,Mulago
+Ulric Robles,48,M,Wandengeya,COVID-19,Saturday,Muh
+Ulric Robles,48,M,Wandengeya,COVID-19,Saturday,Kiruddu
+Ulysses Craig,51,M,Wandengeya,Typhoid,Thursday,Mulago
+Ulysses Craig,51,M,Wandengeya,Typhoid,Thursday,Muh
+Ulysses Craig,51,M,Wandengeya,Typhoid,Thursday,Kiruddu
+Ulysses X. Burch,51,F,Bwaise,COVID-19,Tuesday,Mulago
+Ulysses X. Burch,51,F,Bwaise,COVID-19,Tuesday,Muh
+Ulysses X. Burch,51,F,Bwaise,COVID-19,Tuesday,Kiruddu
+Uriah,45,M,Kikoni,Malaria,Monday,Mulago
+Uriah,45,M,Kikoni,Malaria,Monday,Muh
+Uriah,45,M,Kikoni,Malaria,Monday,Kiruddu
+Uriel Bradshaw,22,M,Katanga,Malaria,Monday,Mulago
+Uriel Bradshaw,22,M,Katanga,Malaria,Tuesday,Muh
+Uriel Bradshaw,22,M,Katanga,Malaria,Tuesday,Kiruddu
+Urielle,53,F,Nakasero,COVID-19,Monday,Mulago
+Urielle,53,F,Nakasero,COVID-19,Monday,Muh
+Urielle,53,F,Nakasero,COVID-19,Monday,Kiruddu
+Urielle M. Contreras,35,F,Makindye,COVID-19,Tuesday,Mulago
+Urielle M. Contreras,35,F,Makindye,COVID-19,Wednesday,Muh
+Urielle M. Contreras,35,F,Makindye,COVID-19,Wednesday,Kiruddu
+"Valdez, Joy U.",47,M,Katanga,COVID-19,Monday,Mulago
+"Valdez, Joy U.",43,M,Kawempe,Typhoid,Friday,Mulago
+"Valdez, Joy U.",43,M,Kawempe,Typhoid,Friday,Muh
+"Valdez, Joy U.",43,M,Kawempe,Typhoid,Friday,Kiruddu
+Vanna,38,M,Kasangati,Malaria,Wednesday,Mulago
+Vanna,38,M,Kasangati,Malaria,Wednesday,Muh
+Vanna,38,M,Kasangati,Malaria,Wednesday,Kiruddu
+Vaughan,51,F,Kikoni,Malaria,Tuesday,Mulago
+Vaughan,51,F,Kikoni,Malaria,Tuesday,Muh
+Vaughan,51,F,Kikoni,Malaria,Tuesday,Kiruddu
+Vaughan L. Mathis,50,M,Nakasero,Typhoid,Sunday,Mulago
+Vaughan L. Mathis,50,M,Nakasero,Typhoid,Sunday,Muh
+Vaughan L. Mathis,50,M,Nakasero,Typhoid,Sunday,Kiruddu
+Veda,43,M,Kawempe,COVID-19,Monday,Mulago
+Veda,43,M,Kawempe,COVID-19,Tuesday,Muh
+Veda,43,M,Kawempe,COVID-19,Tuesday,Kiruddu
+Velma K. Moses,47,M,Arua,Typhoid,Monday,Mulago
+Velma K. Moses,47,M,Arua,Typhoid,Monday,Muh
+Velma K. Moses,47,M,Arua,Typhoid,Monday,Kiruddu
+Vernon Kidd,34,M,Arua,COVID-19,Thursday,Mulago
+Vernon Kidd,34,M,Arua,COVID-19,Thursday,Muh
+Vernon Kidd,34,M,Arua,COVID-19,Thursday,Kiruddu
+Victor,44,F,Nakifuma,COVID-19,Monday,Mulago
+Victor,44,F,Nakifuma,COVID-19,Monday,Muh
+Victor,44,F,Nakifuma,COVID-19,Monday,Kiruddu
+Victor Yang,42,M,Kamwokya,T.B,Thursday,Mulago
+Victor Yang,42,M,Kamwokya,T.B,Thursday,Kiruddu
+Wade O. Diaz,45,F,Kibuli,Malaria,Monday,Mulago
+Wade O. Diaz,45,F,Kibuli,Malaria,Monday,Muh
+Wade O. Diaz,45,F,Kibuli,Malaria,Monday,Kiruddu
+Walter,44,M,Makindye,COVID-19,Saturday,Mulago
+Walter,41,F,Wampeewo,COVID-19,Wednesday,Mulago
+Walter,44,M,Makindye,COVID-19,Saturday,Muh
+Walter,41,F,Wampeewo,COVID-19,Wednesday,Muh
+Walter,44,M,Makindye,COVID-19,Saturday,Kiruddu
+Walter,41,F,Wampeewo,COVID-19,Wednesday,Kiruddu
+"Watson, Moana M.",50,M,Katwe,COVID-19,Monday,Mulago
+"Watson, Moana M.",51,F,Nansana,Malaria,Friday,Mulago
+"Watson, Moana M.",51,F,Nansana,Malaria,Friday,Muh
+"Watson, Moana M.",51,F,Nansana,Malaria,Friday,Kiruddu
+Wayne,52,M,Kibuli,Malaria,Monday,Mulago
+Wayne,52,M,Kibuli,Malaria,Monday,Muh
+Wayne,52,M,Kibuli,Malaria,Monday,Kiruddu
+"West, April J.",45,F,Kamwokya,Malaria,Thursday,Mulago
+"West, April J.",45,F,Kamwokya,Malaria,Thursday,Muh
+"West, April J.",45,F,Kamwokya,Malaria,Thursday,Kiruddu
+"Whitaker, Adena B.",48,F,Kasangati,COVID-19,Saturday,Mulago
+"Whitaker, Adena B.",48,F,Kasangati,COVID-19,Saturday,Muh
+"Whitaker, Adena B.",48,F,Kasangati,COVID-19,Saturday,Kiruddu
+Wilma L. Stevenson,36,F,Makerere,COVID-19,Monday,Mulago
+Wilma L. Stevenson,36,F,Makerere,COVID-19,Tuesday,Muh
+Wilma L. Stevenson,36,F,Makerere,COVID-19,Tuesday,Kiruddu
+Wing Gray,50,M,Kanyanya,Malaria,Thursday,Mulago
+Wing Gray,50,M,Kanyanya,Malaria,Thursday,Kiruddu
+Wing Parks,42,M,Makindye,Typhoid,Thursday,Mulago
+Wing Parks,42,M,Makindye,Typhoid,Thursday,Kiruddu
+Winter,43,F,Kawempe,COVID-19,Wednesday,Mulago
+Winter,43,F,Kawempe,COVID-19,Wednesday,Muh
+Winter,43,F,Kawempe,COVID-19,Wednesday,Kiruddu
+"Wise, Mechelle E.",45,F,Kivulu,COVID-19,Thursday,Mulago
+"Wise, Mechelle E.",45,F,Kivulu,COVID-19,Thursday,Muh
+"Wise, Mechelle E.",45,F,Kivulu,COVID-19,Thursday,Kiruddu
+"Wolf, Tashya X.",40,M,Makindye,COVID-19,Saturday,Mulago
+"Wolf, Tashya X.",40,M,Makindye,COVID-19,Saturday,Muh
+"Wolf, Tashya X.",40,M,Makindye,COVID-19,Saturday,Kiruddu
+Yardley W. Jacobson,54,M,Nakasero,Malaria,Tuesday,Mulago
+Yardley W. Jacobson,54,M,Nakasero,Malaria,Tuesday,Muh
+Yardley W. Jacobson,54,M,Nakasero,Malaria,Tuesday,Kiruddu
+Yasir Tyler,48,F,Kamwokya,T.B,Thursday,Mulago
+Yasir Tyler,48,F,Kamwokya,T.B,Thursday,Kiruddu
+Yen Santana,50,F,Kawempe,COVID-19,Wednesday,Mulago
+Yen Santana,50,F,Kawempe,COVID-19,Thursday,Muh
+Yen Santana,50,F,Kawempe,COVID-19,Thursday,Kiruddu
+Yoshio Potter,45,M,Kivulu,COVID-19,Thursday,Mulago
+Yoshio Potter,45,M,Kivulu,COVID-19,Thursday,Muh
+Yoshio Potter,45,M,Kivulu,COVID-19,Thursday,Kiruddu
+Yuli Craig,55,F,Wandengeya,Typhoid,Wednesday,Mulago
+Yuli Craig,55,F,Wandengeya,Typhoid,Wednesday,Muh
+Yuli Craig,55,F,Wandengeya,Typhoid,Wednesday,Kiruddu
+Yvette,49,F,Kawempe,Malaria,Saturday,Mulago
+Yvette,49,F,Kawempe,Malaria,Saturday,Muh
+Yvette,49,F,Kawempe,Malaria,Saturday,Kiruddu
+Zahir A. Estes,48,M,Kanyanya,COVID-19,Monday,Mulago
+Zahir A. Estes,48,M,Kanyanya,COVID-19,Tuesday,Muh
+Zahir A. Estes,48,M,Kanyanya,COVID-19,Tuesday,Kiruddu
+Zane I. Boone,45,M,Kibuli,COVID-19,Monday,Mulago
+Zane I. Boone,45,M,Kibuli,COVID-19,Monday,Muh
+Zane I. Boone,45,M,Kibuli,COVID-19,Monday,Kiruddu
+Zelenia Byers,48,F,Kamwokya,COVID-19,Monday,Muh
+Zelenia Byers,48,F,Kamwokya,COVID-19,Monday,Kiruddu
+Zelenia L. Lowe,51,F,Gayaza,COVID-19,Monday,Mulago
+Zelenia L. Lowe,51,F,Gayaza,COVID-19,Monday,Muh
+Zelenia L. Lowe,51,F,Gayaza,COVID-19,Monday,Kiruddu
+Zenia H. Patel,40,M,Gayaza,Malaria,Wednesday,Mulago
+Zenia H. Patel,40,M,Gayaza,Malaria,Wednesday,Muh
+Zenia H. Patel,40,M,Gayaza,Malaria,Wednesday,Kiruddu
+Zephania,39,M,Kawempe,Malaria,Tuesday,Mulago
+Zephania,39,M,Kawempe,Malaria,Tuesday,Kiruddu
